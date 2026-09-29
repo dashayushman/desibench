@@ -48,11 +48,13 @@ function render() {
     ? (state.R.yours ? 'Showing my run. Switch to <b>Your run</b> to see yours.' : 'Showing my run. Run it yourself with <code>python -m desibench run</code>, then this page shows yours next to mine.')
     : 'Showing your run, scored against the same ground truth. Rounds that need a person to grade (the video descriptions) show what each AI wrote, frame by frame, below.';
   if (!r) return;
+  // your run may cover one episode only: open on one it has
+  const have = EPS.map(([v]) => v).filter((v) => r.episodes?.[v]?.duration_s);
+  if (have.length && !have.includes(state.ep)) state.ep = have[0];
   AIS.forEach((a) => { $(`[data-pts="${a}"]`).textContent = r.points[a]; $(`[data-pts="${a}"]`).parentElement.classList.toggle('win', r.points[a] > r.points[AIS.find((x) => x !== a)]); });
   $('[data-rounds]').innerHTML = ROUNDS.map((R, i) => card(R, r, i)).join('');
   $('[data-details]').innerHTML = details(r);
   loadEpisode();
-  drawFrames();
 }
 
 function card(R, r, i) {
@@ -133,6 +135,7 @@ async function loadEpisode() {
   $('[data-meta-s]').textContent = s ? `${s.transcript.length} lines` : 'not run yet';
   $('[data-meta-o]').textContent = o ? `${o.transcript.length} lines` : 'not run yet';
   drawTx();
+  shown = 24; drawFrames();   // the frames follow the episode picker
   if (!yt) initYT(); else if (ytReady) yt.cueVideoById(state.ep);
 }
 function drawTx() {

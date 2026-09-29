@@ -446,8 +446,8 @@
    "usd_per_1000_frames": 5.952
   },
   "openai": {
-   "frames_described": 2000,
-   "usd_per_1000_frames": 0.107
+   "frames_described": 1981,
+   "usd_per_1000_frames": 0.108
   }
  },
  "show": {

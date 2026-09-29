@@ -69,7 +69,8 @@ def who_am_i() -> list[dict]:
         rec = {"id": it["id"], "answer": it["answer"], "model": m, "solved_at_hint": solved_at,
                "hints_available": len(it["hints"]), "points": (len(it["hints"]) + 1 - solved_at) * 10 if solved_at else 0,
                "guesses_used": guesses, "turns": turns, "cost_usd": round(cost, 6), "seconds": round(secs_tot, 1)}
-        p.write_text(json.dumps(rec, indent=1, ensure_ascii=False))
+        if not any(t.get("error") for t in turns):  # a failed call isn't an answer: don't save it, so a rerun retries
+            p.write_text(json.dumps(rec, indent=1, ensure_ascii=False))
         return rec
 
     with ThreadPoolExecutor(max_workers=6) as ex:
@@ -107,7 +108,8 @@ def quiz() -> list[dict]:
                 rec["correct"] = str(r.get("answer", "")).strip().upper()[:1] == it["answer"]
         except Exception as e:
             rec["error"] = str(e)[:200]
-        p.write_text(json.dumps(rec, indent=1, ensure_ascii=False))
+        if "error" not in rec:  # a failed call isn't an answer: don't save it, so a rerun retries
+            p.write_text(json.dumps(rec, indent=1, ensure_ascii=False))
         return rec
 
     with ThreadPoolExecutor(max_workers=8) as ex:

@@ -175,6 +175,8 @@ def round_ears(root: Path) -> dict:
             ref = _load(ANSWERS / "transcripts" / f"{c['clip']}.json")
             if not ref or not (root / c["video_id"] / "runs" / arm / "segments.json").exists():
                 continue
+            if c["end"] > (_load(root / c["video_id"] / "ingest.json") or {}).get("duration_s", 0):
+                continue  # a minute this run never covered (a shortened video) isn't a minute the AI got wrong
             ref_text = " ".join(l["text"] for l in ref["lines"])
             sc = words_wrong(ref_text, _window(speech_to_text(root, c["video_id"], arm), c["start"] - PAD, c["end"] + PAD))
             tot.update(sc)
@@ -245,8 +247,9 @@ def round_eyes(root: Path) -> dict:
         frames, usd = 0, 0.0
         for vid in EPISODES:
             fr = _load(root / vid / "runs" / arm / "frames.json")
-            if fr:
-                frames += len(fr.get("tiles") or [])
+            dur = (_load(root / vid / "ingest.json") or {}).get("duration_s", 0)
+            if fr:  # OpenAI's 4x4 grids pad the last one past the end of the video; those blank tiles don't count
+                frames += sum(1 for t in fr.get("tiles") or [] if (t.get("t") or 0) < dur)
             usd += sum(r.get("cost_usd", 0) for r in _ledger(root / vid / "runs" / arm / "ledger.jsonl") if r.get("stage") == "see")
         out[arm] = {"frames_described": frames, "usd_per_1000_frames": round(usd / frames * 1000, 3) if frames else None}
     return out
@@ -317,7 +320,7 @@ def winners(r: dict) -> dict:
     return {
         "ears": pick(lambda r, a: r["ears"][a]["words_wrong"], lower=True),
         "speakers": pick(lambda r, a: r["speakers"][a]["right_person"]),
-        "room": pick(lambda r, a: r["room"][a]["reactions_heard"] or None),
+        "room": pick(lambda r, a: r["room"][a]["reactions_heard"] if r["room"][a]["per_episode"] else None),  # 0 heard is a score
         "eyes": None,  # graded by a person; see the reference results
         "show": pick(show),
         "bill": pick(lambda r, a: r["bill"][a]["usd_per_hour"], lower=True),

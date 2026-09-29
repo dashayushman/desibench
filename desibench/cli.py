@@ -141,6 +141,10 @@ def serve(port: int = 8000, open_browser: bool = True):
         def log_message(self, *a):
             pass
 
+        def end_headers(self):  # results change with every run: never serve a stale page or stale numbers
+            self.send_header("Cache-Control", "no-store")
+            super().end_headers()
+
     url = f"http://localhost:{port}/viewer/"
     socketserver.TCPServer.allow_reuse_address = True
     with socketserver.TCPServer(("127.0.0.1", port), Quiet) as httpd:
