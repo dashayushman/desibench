@@ -58,7 +58,7 @@ def doctor() -> bool:
     except ImportError as e:
         line(False, f"Python packages ({e.name} missing)", "pip install -r requirements.txt")
     for k in ("SARVAM_API_KEY", "OPENAI_API_KEY"):
-        line(has_cred(k), f"{k} set", "copy .env.example to .env and fill it in")
+        line(has_cred(k), f"{k} set", f"put your key after {k}= in .env" if (ROOT / ".env").exists() else "copy .env.example to .env and fill it in")
     free = shutil.disk_usage(ROOT).free / 1e9
     line(free > 6, f"{free:.0f} GB free (a full run needs about 6 GB)", "free up some disk space")
     have = [v for v in EPISODES if (VIDEOS / f"{v}.mp4").exists()]

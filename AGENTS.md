@@ -26,7 +26,7 @@ quiz show. Follow these steps in order. The user only has to give you two API ke
    https://platform.openai.com/api-keys if the user doesn't have them yet.
 4. **Download the two episodes** (about 830 MB, from YouTube): `python -m desibench download`.
 5. **Estimate and confirm.** `python -m desibench estimate`. Tell the user the cost and time (about $20 and about
-   4 hours for both AIs on both episodes; about 45 minutes and $3 for OpenAI alone on Video 1). Offer the smaller options:
+   4 hours for both AIs on both episodes; about 25 minutes and $2.40 for OpenAI alone on Video 1). Offer the smaller options:
    `--episode _3UvCy7FMTg` (Video 1 only) and `--ai openai` or `--ai sarvam`. Wait for their choice and their go.
 6. **Run.** `python -m desibench run --yes` (plus the options they chose). It prints progress per step. It's long:
    run it in the background or a separate terminal and check the log, don't block on it. It ends by writing
