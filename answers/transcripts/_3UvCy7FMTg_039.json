@@ -1,0 +1,13 @@
+{"clip": "_3UvCy7FMTg_039",
+ "lines": [
+  {"t": "39:00", "speaker": "Gursimran Khamba", "text": "Baking accident Jose has chosen. In front of which bakery in Bandra did Salman Khan's Land Cruiser have an accident?"},
+  {"t": "39:12", "speaker": "guest", "text": "What the hell is this?"},
+  {"t": "39:15", "speaker": "Gursimran Khamba", "text": "It's a multiple choice question."},
+  {"t": "39:18", "speaker": "guest", "text": "Oh, multiple choice."},
+  {"t": "39:20", "speaker": "Gursimran Khamba", "text": "Let's give the options: A1 Bakery, American Express Bakery, J. Hearsch and Co, or Hit and Run Bakery. As a Bandra resident, as a Bandra resident, I think you must know this."},
+  {"t": "39:36", "speaker": "Jose Covaco", "text": "What's really fucked up about this question is that it was in front of A, B and C. They're all in the same place, right? I don't know about J. Hearsch, but A1 and American Express are pretty close by. Hearsch is on the other side of the road."},
+  {"t": "39:51", "speaker": "guest", "text": "Inside the."},
+  {"t": "39:53", "speaker": "Jose Covaco", "text": "Y'all will know I can't afford Bandra rent, so I'm in, so I'm in mud, actually."}
+ ],
+ "uncertain": ["'Hearsch is on the other side' vs 'Khamba's on the other side' (the latter only with keywords)"],
+ "notes": "OpenAI keywords also substituted a keyterm: gpt-transcribe with keywords wrote 'Khamba's on the other side of the road'. Sarvam+keyterms inserted a phantom show-name line."}

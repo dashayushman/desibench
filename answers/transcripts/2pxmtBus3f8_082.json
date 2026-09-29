@@ -1,0 +1,15 @@
+{"clip": "2pxmtBus3f8_082",
+ "lines": [
+  {"t": "82:02", "speaker": "Abish Mathew", "text": "really far, I can't see. Okay, one last time. Audience, just tell me the clues. Clues, go. One."},
+  {"t": "82:09", "speaker": "guest", "text": "Arre, improv show thodi hai."},
+  {"t": "82:13", "speaker": "Abish Mathew", "text": "Audience, just tell me the clues."},
+  {"t": "82:14", "speaker": "guest", "text": "Audience wait kar rahi hai. We are listening."},
+  {"t": "82:17", "speaker": "Abish Mathew", "text": "Can I get like five clues from the audience, sir?"},
+  {"t": "82:21", "speaker": "Gursimran Khamba", "text": "Nahi, nahi, main batata hoon, bhai, main batata hoon. Inko writing pressure mat de. Okay, main last time. My speeches bring all the boys to the yard. To my critics I say, mat kar lala. I blame my failures on past leaders. I have a very passionate fan base, and I despise liberals and intellectuals. What is the answer, Abish Mathew?"},
+  {"t": "82:41", "speaker": "Abish Mathew", "text": "Donald Trump."},
+  {"t": "82:42", "speaker": "Gursimran Khamba", "text": "Donald Trump. Wrong answer. Wrong answer. The right answer is Adolf Hitler."},
+  {"t": "82:49", "speaker": "guest", "text": "Oh shit! You can take it off, Abish. Abish, take it off. Sharam mat karo, take it off. Abish, take it off, take it off."},
+  {"t": "82:59", "speaker": "Abish Mathew", "text": "Abe bhai nahi, nahi bhai, blindfold bhai, blindfold."}
+ ],
+ "uncertain": ["'Audience wait kar rahi hai' (tail differs across systems)", "'Okay, main last time' vs 'my last time'", "'Sharam mat karo' (sharam mat aao)"],
+ "notes": "Sarvam default translated 'sharam mat karo' → 'don't be shy' and 'main batata hoon' → 'I'll tell you'; Sarvam+keyterms replaced two Hindi lines with 'The Nation Wants to Guess'."}

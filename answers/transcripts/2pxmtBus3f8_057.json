@@ -1,0 +1,11 @@
+{"clip": "2pxmtBus3f8_057",
+ "lines": [
+  {"t": "57:04", "speaker": "Rohan Joshi", "text": "It is highly possible that they also spoke about the cricket team, because if they are talking about this, then they won't be like, nuclear code five five five. They will be like, Sachin khel raha hai kya?"},
+  {"t": "57:14", "speaker": "guest", "text": "In the 1970s?"},
+  {"t": "57:16", "speaker": "Rohan Joshi", "text": "Sachin didn't play in the '70s. I just look like him, that's all. Abish Mathew, hi, hi. Let's move on, guys."},
+  {"t": "57:28", "speaker": "guest", "text": "It's okay. Your people gave us Sanju Samson, all forgiven. You know why this is awesome? He's now going to go home and Google, who is Sanju Samson."},
+  {"t": "57:43", "speaker": "Abish Mathew", "text": "No, no, no. I don't know anything about cricket, but if there is a Malayali on anything, bro, I know this. I know Sanju Samson, Malayali. That's why I know cricket."},
+  {"t": "57:51", "speaker": "guest", "text": "Sanju Samson nahi, chutiye. Sanju Samson. Brother of Ravi OnePlus. What is happening?"}
+ ],
+ "uncertain": ["'Sanju Samson nahi, chutiye' vs 'Samsung nahi, chutiye' (the OnePlus joke suggests a Samsung pun)", "'Brother of Ravi OnePlus' (Sarvam-family only)"],
+ "notes": "Sarvam+keyterms replaced the punchline with 2 phantom show-name lines and a phantom 'Kaneez Surka'. 4o-diarize garbled 'Abish Mathew, hi hi' as 'Are we sned to high high'."}

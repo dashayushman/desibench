@@ -1,0 +1,1193 @@
+{
+ "run": "Ayushman's run, September 2026",
+ "ais": {
+  "sarvam-tuned": {
+   "name": "Sarvam",
+   "vendor": "sarvam",
+   "stt": "saaras:v4",
+   "mode": "codemix",
+   "language": "hi-IN",
+   "keyterms": false,
+   "refine": "sarvam-105b",
+   "see": "sarvam-vision",
+   "llm": "sarvam-105b"
+  },
+  "openai": {
+   "name": "OpenAI",
+   "vendor": "openai",
+   "stt": "gpt-transcribe",
+   "diarize": "gpt-4o-transcribe-diarize",
+   "keyterms": false,
+   "refine": "gpt-audio-mini",
+   "see": "gpt-6-luna",
+   "llm": "gpt-6-luna"
+  }
+ },
+ "episodes": {
+  "_3UvCy7FMTg": {
+   "label": "Video 1",
+   "title": "The Nation Wants To Guess with Gursimran Khamba | EP 1 @Hoezaay @KennySebastian @sonofabish",
+   "duration_s": 4484.734
+  },
+  "2pxmtBus3f8": {
+   "label": "Video 2",
+   "title": "Nation Wants to Guess with Khamba | Finale ft. @kaneezsurka007 @sonofabish @rohanjoshi8016",
+   "duration_s": 5415.254
+  }
+ },
+ "ears": {
+  "sarvam-tuned": {
+   "words_wrong": 0.1866,
+   "ref_words": 3130,
+   "wrong": 251,
+   "missing": 73,
+   "extra": 260,
+   "clips": 24,
+   "per_clip": [
+    {
+     "clip": "_3UvCy7FMTg_005",
+     "ref_words": 147,
+     "wrong": 5,
+     "missing": 1,
+     "extra": 5
+    },
+    {
+     "clip": "_3UvCy7FMTg_007",
+     "ref_words": 122,
+     "wrong": 11,
+     "missing": 0,
+     "extra": 14
+    },
+    {
+     "clip": "_3UvCy7FMTg_009",
+     "ref_words": 97,
+     "wrong": 7,
+     "missing": 0,
+     "extra": 1
+    },
+    {
+     "clip": "_3UvCy7FMTg_013",
+     "ref_words": 157,
+     "wrong": 13,
+     "missing": 4,
+     "extra": 11
+    },
+    {
+     "clip": "_3UvCy7FMTg_020",
+     "ref_words": 149,
+     "wrong": 6,
+     "missing": 2,
+     "extra": 3
+    },
+    {
+     "clip": "_3UvCy7FMTg_024",
+     "ref_words": 132,
+     "wrong": 9,
+     "missing": 2,
+     "extra": 25
+    },
+    {
+     "clip": "_3UvCy7FMTg_026",
+     "ref_words": 119,
+     "wrong": 11,
+     "missing": 4,
+     "extra": 4
+    },
+    {
+     "clip": "_3UvCy7FMTg_034",
+     "ref_words": 130,
+     "wrong": 8,
+     "missing": 3,
+     "extra": 10
+    },
+    {
+     "clip": "_3UvCy7FMTg_039",
+     "ref_words": 130,
+     "wrong": 5,
+     "missing": 8,
+     "extra": 2
+    },
+    {
+     "clip": "_3UvCy7FMTg_042",
+     "ref_words": 107,
+     "wrong": 8,
+     "missing": 2,
+     "extra": 4
+    },
+    {
+     "clip": "_3UvCy7FMTg_063",
+     "ref_words": 170,
+     "wrong": 9,
+     "missing": 10,
+     "extra": 17
+    },
+    {
+     "clip": "_3UvCy7FMTg_067",
+     "ref_words": 99,
+     "wrong": 5,
+     "missing": 1,
+     "extra": 3
+    },
+    {
+     "clip": "2pxmtBus3f8_002",
+     "ref_words": 98,
+     "wrong": 12,
+     "missing": 1,
+     "extra": 0
+    },
+    {
+     "clip": "2pxmtBus3f8_021",
+     "ref_words": 125,
+     "wrong": 20,
+     "missing": 2,
+     "extra": 4
+    },
+    {
+     "clip": "2pxmtBus3f8_031",
+     "ref_words": 118,
+     "wrong": 13,
+     "missing": 5,
+     "extra": 13
+    },
+    {
+     "clip": "2pxmtBus3f8_036",
+     "ref_words": 138,
+     "wrong": 10,
+     "missing": 2,
+     "extra": 7
+    },
+    {
+     "clip": "2pxmtBus3f8_038",
+     "ref_words": 156,
+     "wrong": 9,
+     "missing": 2,
+     "extra": 10
+    },
+    {
+     "clip": "2pxmtBus3f8_053",
+     "ref_words": 140,
+     "wrong": 9,
+     "missing": 2,
+     "extra": 23
+    },
+    {
+     "clip": "2pxmtBus3f8_057",
+     "ref_words": 139,
+     "wrong": 13,
+     "missing": 4,
+     "extra": 13
+    },
+    {
+     "clip": "2pxmtBus3f8_063",
+     "ref_words": 141,
+     "wrong": 8,
+     "missing": 2,
+     "extra": 38
+    },
+    {
+     "clip": "2pxmtBus3f8_065",
+     "ref_words": 89,
+     "wrong": 15,
+     "missing": 0,
+     "extra": 6
+    },
+    {
+     "clip": "2pxmtBus3f8_073",
+     "ref_words": 112,
+     "wrong": 12,
+     "missing": 16,
+     "extra": 3
+    },
+    {
+     "clip": "2pxmtBus3f8_077",
+     "ref_words": 162,
+     "wrong": 16,
+     "missing": 0,
+     "extra": 28
+    },
+    {
+     "clip": "2pxmtBus3f8_082",
+     "ref_words": 153,
+     "wrong": 17,
+     "missing": 0,
+     "extra": 16
+    }
+   ]
+  },
+  "openai": {
+   "words_wrong": 0.2112,
+   "ref_words": 3130,
+   "wrong": 145,
+   "missing": 473,
+   "extra": 43,
+   "clips": 24,
+   "per_clip": [
+    {
+     "clip": "_3UvCy7FMTg_005",
+     "ref_words": 147,
+     "wrong": 1,
+     "missing": 6,
+     "extra": 0
+    },
+    {
+     "clip": "_3UvCy7FMTg_007",
+     "ref_words": 122,
+     "wrong": 7,
+     "missing": 1,
+     "extra": 3
+    },
+    {
+     "clip": "_3UvCy7FMTg_009",
+     "ref_words": 97,
+     "wrong": 7,
+     "missing": 4,
+     "extra": 0
+    },
+    {
+     "clip": "_3UvCy7FMTg_013",
+     "ref_words": 157,
+     "wrong": 7,
+     "missing": 1,
+     "extra": 1
+    },
+    {
+     "clip": "_3UvCy7FMTg_020",
+     "ref_words": 149,
+     "wrong": 0,
+     "missing": 1,
+     "extra": 0
+    },
+    {
+     "clip": "_3UvCy7FMTg_024",
+     "ref_words": 132,
+     "wrong": 4,
+     "missing": 2,
+     "extra": 0
+    },
+    {
+     "clip": "_3UvCy7FMTg_026",
+     "ref_words": 119,
+     "wrong": 4,
+     "missing": 2,
+     "extra": 0
+    },
+    {
+     "clip": "_3UvCy7FMTg_034",
+     "ref_words": 130,
+     "wrong": 3,
+     "missing": 1,
+     "extra": 0
+    },
+    {
+     "clip": "_3UvCy7FMTg_039",
+     "ref_words": 130,
+     "wrong": 3,
+     "missing": 2,
+     "extra": 0
+    },
+    {
+     "clip": "_3UvCy7FMTg_042",
+     "ref_words": 107,
+     "wrong": 1,
+     "missing": 106,
+     "extra": 0
+    },
+    {
+     "clip": "_3UvCy7FMTg_063",
+     "ref_words": 170,
+     "wrong": 12,
+     "missing": 3,
+     "extra": 8
+    },
+    {
+     "clip": "_3UvCy7FMTg_067",
+     "ref_words": 99,
+     "wrong": 5,
+     "missing": 2,
+     "extra": 4
+    },
+    {
+     "clip": "2pxmtBus3f8_002",
+     "ref_words": 98,
+     "wrong": 17,
+     "missing": 4,
+     "extra": 0
+    },
+    {
+     "clip": "2pxmtBus3f8_021",
+     "ref_words": 125,
+     "wrong": 5,
+     "missing": 9,
+     "extra": 1
+    },
+    {
+     "clip": "2pxmtBus3f8_031",
+     "ref_words": 118,
+     "wrong": 1,
+     "missing": 117,
+     "extra": 0
+    },
+    {
+     "clip": "2pxmtBus3f8_036",
+     "ref_words": 138,
+     "wrong": 1,
+     "missing": 135,
+     "extra": 0
+    },
+    {
+     "clip": "2pxmtBus3f8_038",
+     "ref_words": 156,
+     "wrong": 8,
+     "missing": 6,
+     "extra": 3
+    },
+    {
+     "clip": "2pxmtBus3f8_053",
+     "ref_words": 140,
+     "wrong": 8,
+     "missing": 12,
+     "extra": 5
+    },
+    {
+     "clip": "2pxmtBus3f8_057",
+     "ref_words": 139,
+     "wrong": 8,
+     "missing": 4,
+     "extra": 2
+    },
+    {
+     "clip": "2pxmtBus3f8_063",
+     "ref_words": 141,
+     "wrong": 16,
+     "missing": 20,
+     "extra": 1
+    },
+    {
+     "clip": "2pxmtBus3f8_065",
+     "ref_words": 89,
+     "wrong": 6,
+     "missing": 11,
+     "extra": 0
+    },
+    {
+     "clip": "2pxmtBus3f8_073",
+     "ref_words": 112,
+     "wrong": 2,
+     "missing": 9,
+     "extra": 0
+    },
+    {
+     "clip": "2pxmtBus3f8_077",
+     "ref_words": 162,
+     "wrong": 9,
+     "missing": 0,
+     "extra": 14
+    },
+    {
+     "clip": "2pxmtBus3f8_082",
+     "ref_words": 153,
+     "wrong": 10,
+     "missing": 15,
+     "extra": 1
+    }
+   ]
+  }
+ },
+ "speakers": {
+  "sarvam-tuned": {
+   "voices_heard": {
+    "_3UvCy7FMTg": 6,
+    "2pxmtBus3f8": 8
+   },
+   "right_person": 0.636,
+   "lines_checked": 176,
+   "lines_with_no_speech": 1
+  },
+  "openai": {
+   "voices_heard": {
+    "_3UvCy7FMTg": 39,
+    "2pxmtBus3f8": 61
+   },
+   "right_person": 0.41,
+   "lines_checked": 139,
+   "lines_with_no_speech": 38
+  }
+ },
+ "room": {
+  "sarvam-tuned": {
+   "per_episode": {
+    "_3UvCy7FMTg": {
+     "laughter": 1
+    },
+    "2pxmtBus3f8": {}
+   },
+   "reactions_heard": 1,
+   "laughs_heard": 1
+  },
+  "openai": {
+   "per_episode": {
+    "_3UvCy7FMTg": {
+     "applause": 13,
+     "laughter": 26
+    },
+    "2pxmtBus3f8": {
+     "applause": 5,
+     "laughter": 25,
+     "cheer": 1
+    }
+   },
+   "reactions_heard": 70,
+   "laughs_heard": 51
+  }
+ },
+ "eyes": {
+  "sarvam-tuned": {
+   "frames_described": 1980,
+   "usd_per_1000_frames": 5.952
+  },
+  "openai": {
+   "frames_described": 2000,
+   "usd_per_1000_frames": 0.107
+  }
+ },
+ "show": {
+  "sarvam-tuned": {
+   "llm": "sarvam-105b",
+   "facts": {
+    "_3UvCy7FMTg": {
+     "winner_right": true,
+     "final_scores_exact": 0,
+     "of": 3,
+     "rounds_found": 4,
+     "rounds": 4
+    },
+    "2pxmtBus3f8": {
+     "winner_right": true,
+     "final_scores_exact": 2,
+     "of": 3,
+     "rounds_found": 4,
+     "rounds": 4
+    }
+   },
+   "who_am_i_points": 0,
+   "who_am_i_max": 270,
+   "who_am_i_solved": 0,
+   "who_am_i_played": 6,
+   "quiz_multiple_choice_right": 4,
+   "quiz_multiple_choice": 6
+  },
+  "openai": {
+   "llm": "gpt-6-luna",
+   "facts": {
+    "_3UvCy7FMTg": {
+     "winner_right": true,
+     "final_scores_exact": 2,
+     "of": 3,
+     "rounds_found": 4,
+     "rounds": 4
+    },
+    "2pxmtBus3f8": {
+     "winner_right": true,
+     "final_scores_exact": 3,
+     "of": 3,
+     "rounds_found": 4,
+     "rounds": 4
+    }
+   },
+   "who_am_i_points": 90,
+   "who_am_i_max": 270,
+   "who_am_i_solved": 4,
+   "who_am_i_played": 6,
+   "quiz_multiple_choice_right": 5,
+   "quiz_multiple_choice": 6
+  }
+ },
+ "bill": {
+  "sarvam-tuned": {
+   "usd_total": 15.125,
+   "hours_of_video": 2.75,
+   "usd_per_hour": 5.5,
+   "inr_per_hour": 462,
+   "usd_per_hour_by_stage": {
+    "transcribe": 0.536,
+    "refine": 0.284,
+    "see": 4.286,
+    "fuse": 0.345,
+    "export": 0.049
+   }
+  },
+  "openai": {
+   "usd_total": 5.058,
+   "hours_of_video": 2.75,
+   "usd_per_hour": 1.839,
+   "inr_per_hour": 154,
+   "usd_per_hour_by_stage": {
+    "transcribe": 1.342,
+    "see": 0.078,
+    "refine": 0.39,
+    "fuse": 0.027,
+    "export": 0.002
+   }
+  }
+ },
+ "winners": {
+  "ears": "sarvam-tuned",
+  "speakers": "sarvam-tuned",
+  "room": "openai",
+  "eyes": "openai",
+  "show": "openai",
+  "bill": "openai"
+ },
+ "points": {
+  "sarvam-tuned": 40,
+  "openai": 80
+ },
+ "graded": {
+  "_note": "Graded item by item against my ground truth; these need a person to grade, so a new run doesn't re-grade them.",
+  "eyes": {
+   "sarvam-tuned": {
+    "people_counted_right": 0.51,
+    "scene_described_right": 0.6,
+    "text_read_right": 0.823,
+    "made_things_up": 0,
+    "named_people_right": null
+   },
+   "openai": {
+    "people_counted_right": 0.885,
+    "scene_described_right": 0.9,
+    "text_read_right": 0.847,
+    "made_things_up": 7,
+    "named_people_right": 0.809
+   },
+   "frames": 60
+  },
+  "slang": {
+   "sarvam-tuned": {
+    "score": 0.585,
+    "made_things_up": 16
+   },
+   "openai": {
+    "score": 0.943,
+    "made_things_up": 0
+   }
+  },
+  "quiz_all_15": {
+   "sarvam-tuned": {
+    "points": 6.5,
+    "of": 15
+   },
+   "openai": {
+    "points": 10.0,
+    "of": 15
+   }
+  }
+ },
+ "details": {
+  "who_am_i": [
+   {
+    "id": "ep1_p1",
+    "answer": "Mother Teresa",
+    "model": "sarvam-105b",
+    "solved_at_hint": null,
+    "hints_available": 5,
+    "points": 0,
+    "turns": [
+     {
+      "hint": 1,
+      "guess": null,
+      "correct": false,
+      "reasoning": "Too broad to narrow down from just this roast."
+     },
+     {
+      "hint": 2,
+      "guess": null,
+      "correct": false,
+      "reasoning": "Still too generic a hint for a definitive guess."
+     },
+     {
+      "hint": 3,
+      "guess": "Sushmita Sen",
+      "correct": false,
+      "reasoning": "Linked 90s Miss World to a famous personality of that era."
+     },
+     {
+      "hint": 4,
+      "guess": "Aishwarya Rai Bachchan",
+      "correct": false,
+      "reasoning": "90s Miss World who frequently wears white, making her a perfect Tide detergent target audience."
+     },
+     {
+      "hint": 5,
+      "guess": "Aishwarya Rai Bachchan",
+      "correct": false,
+      "reasoning": "UNICEF work with underprivileged communities aligns with the Bengal clue."
+     }
+    ],
+    "withheld": null
+   },
+   {
+    "id": "ep1_p2",
+    "answer": "Kunal Kamra",
+    "model": "sarvam-105b",
+    "solved_at_hint": null,
+    "hints_available": 5,
+    "points": 0,
+    "turns": [],
+    "withheld": true
+   },
+   {
+    "id": "ep1_p3",
+    "answer": "Osama bin Laden",
+    "model": "sarvam-105b",
+    "solved_at_hint": null,
+    "hints_available": 5,
+    "points": 0,
+    "turns": [
+     {
+      "hint": 1,
+      "guess": null,
+      "correct": false,
+      "reasoning": "One hint is too vague to risk a guess"
+     },
+     {
+      "hint": 2,
+      "guess": null,
+      "correct": false,
+      "reasoning": "Two pun hints are still ambiguous"
+     },
+     {
+      "hint": 3,
+      "guess": null,
+      "correct": false,
+      "reasoning": "Three ambiguous Hinglish puns still too vague to nail"
+     },
+     {
+      "hint": 4,
+      "guess": null,
+      "correct": false,
+      "reasoning": null
+     },
+     {
+      "hint": 5,
+      "guess": null,
+      "correct": false,
+      "reasoning": "Still cannot definitively identify from the combined puns"
+     }
+    ],
+    "withheld": null
+   },
+   {
+    "id": "fin_p1",
+    "answer": "Stephen Hawking",
+    "model": "sarvam-105b",
+    "solved_at_hint": null,
+    "hints_available": 2,
+    "points": 0,
+    "turns": [
+     {
+      "hint": 1,
+      "guess": null,
+      "correct": false,
+      "reasoning": "Not enough clues yet; preserving guesses for stronger hints"
+     },
+     {
+      "hint": 2,
+      "guess": null,
+      "correct": false,
+      "reasoning": "Likely a tech figure; still analyzing clues"
+     }
+    ],
+    "withheld": null
+   },
+   {
+    "id": "fin_p2",
+    "answer": "Rahul Gandhi",
+    "model": "sarvam-105b",
+    "solved_at_hint": null,
+    "hints_available": 5,
+    "points": 0,
+    "turns": [
+     {
+      "hint": 1,
+      "guess": null,
+      "correct": false,
+      "reasoning": "Hinglish pun/roast requires niche pop-culture context I’m not confident about."
+     },
+     {
+      "hint": 2,
+      "guess": "Tiger Shroff",
+      "correct": false,
+      "reasoning": "Tigers are literally solitary animals, making 'Haq se single' a clever animal pun on his name."
+     },
+     {
+      "hint": 3,
+      "guess": null,
+      "correct": false,
+      "reasoning": null
+     },
+     {
+      "hint": 4,
+      "guess": null,
+      "correct": false,
+      "reasoning": null
+     },
+     {
+      "hint": 5,
+      "guess": null,
+      "correct": false,
+      "reasoning": "Already spent my three allowed guesses."
+     }
+    ],
+    "withheld": null
+   },
+   {
+    "id": "fin_p3",
+    "answer": "Adolf Hitler",
+    "model": "sarvam-105b",
+    "solved_at_hint": null,
+    "hints_available": 5,
+    "points": 0,
+    "turns": [],
+    "withheld": true
+   },
+   {
+    "id": "ep1_p1",
+    "answer": "Mother Teresa",
+    "model": "gpt-6-luna",
+    "solved_at_hint": 3,
+    "hints_available": 5,
+    "points": 30,
+    "turns": [
+     {
+      "hint": 1,
+      "guess": null,
+      "correct": false,
+      "reasoning": "This could describe many public figures; I need another hint to narrow it down."
+     },
+     {
+      "hint": 2,
+      "guess": null,
+      "correct": false,
+      "reasoning": "The clues are still broad; I’ll wait for a more distinctive hint."
+     },
+     {
+      "hint": 3,
+      "guess": "Mother Teresa",
+      "correct": true,
+      "reasoning": "Miss World contestants often cited her as a humanitarian role model in the 1990s."
+     }
+    ],
+    "withheld": null
+   },
+   {
+    "id": "ep1_p2",
+    "answer": "Kunal Kamra",
+    "model": "gpt-6-luna",
+    "solved_at_hint": null,
+    "hints_available": 5,
+    "points": 0,
+    "turns": [],
+    "withheld": true
+   },
+   {
+    "id": "ep1_p3",
+    "answer": "Osama bin Laden",
+    "model": "gpt-6-luna",
+    "solved_at_hint": 4,
+    "hints_available": 5,
+    "points": 20,
+    "turns": [
+     {
+      "hint": 1,
+      "guess": null,
+      "correct": false,
+      "reasoning": "This clue is too broad to identify someone confidently."
+     },
+     {
+      "hint": 2,
+      "guess": null,
+      "correct": false,
+      "reasoning": "A high body count could mean many victims or many romantic partners, so the person is still unclear."
+     },
+     {
+      "hint": 3,
+      "guess": "Ted Kaczynski",
+      "correct": false,
+      "reasoning": "The Unabomber lived off-grid in a remote cabin and evaded capture for years."
+     },
+     {
+      "hint": 4,
+      "guess": "Osama bin Laden",
+      "correct": true,
+      "reasoning": "The September song points to 9/11, while hiding, many deaths, and life in hiding fit him."
+     }
+    ],
+    "withheld": null
+   },
+   {
+    "id": "fin_p1",
+    "answer": "Stephen Hawking",
+    "model": "gpt-6-luna",
+    "solved_at_hint": 2,
+    "hints_available": 2,
+    "points": 10,
+    "turns": [
+     {
+      "hint": 1,
+      "guess": null,
+      "correct": false,
+      "reasoning": "This echoes a lyric from Chamillionaire’s “Ridin’,” but it doesn’t identify one person yet."
+     },
+     {
+      "hint": 2,
+      "guess": "Stephen Hawking",
+      "correct": true,
+      "reasoning": "The rolling hint points to his wheelchair, and its battery would be essential."
+     }
+    ],
+    "withheld": null
+   },
+   {
+    "id": "fin_p2",
+    "answer": "Rahul Gandhi",
+    "model": "gpt-6-luna",
+    "solved_at_hint": 3,
+    "hints_available": 5,
+    "points": 30,
+    "turns": [
+     {
+      "hint": 1,
+      "guess": null,
+      "correct": false,
+      "reasoning": "This could fit many people; I need another hint to narrow it down."
+     },
+     {
+      "hint": 2,
+      "guess": "Salman Khan",
+      "correct": false,
+      "reasoning": "He’s famously unmarried, and people often ask about his mother."
+     },
+     {
+      "hint": 3,
+      "guess": "Rahul Gandhi",
+      "correct": true,
+      "reasoning": "He’s famously unmarried, his mother is Sonia Gandhi, and the hint jokes about his election losses."
+     }
+    ],
+    "withheld": null
+   },
+   {
+    "id": "fin_p3",
+    "answer": "Adolf Hitler",
+    "model": "gpt-6-luna",
+    "solved_at_hint": null,
+    "hints_available": 5,
+    "points": 0,
+    "turns": [],
+    "withheld": true
+   }
+  ],
+  "quiz": [
+   {
+    "id": "q01",
+    "model": "sarvam-105b",
+    "mc": true,
+    "gold": "B",
+    "answer": "C",
+    "explanation": "The wife called him 'ghonchumal,' a derogatory term used in Chhattisgarh to insult a man for being overly dependent on his parents. The High Court upheld the divorce ruling, citing this targeting as mental cruelty.",
+    "correct": false,
+    "score": 0.0
+   },
+   {
+    "id": "q02",
+    "model": "sarvam-105b",
+    "mc": false,
+    "gold": "Clean toilets",
+    "answer": "Blacksmith work",
+    "explanation": "He had hoped to take part in combat, but was instead kept in a workshop repeatedly doing manual metal work.",
+    "correct": null,
+    "score": 0
+   },
+   {
+    "id": "q03",
+    "model": "sarvam-105b",
+    "mc": false,
+    "gold": "A dispute over a seat",
+    "answer": "suspected cow slaughter / beef rumors",
+    "explanation": "Mob lynchings in Uttar Pradesh and nearby regions are frequently driven by unsubstantiated rumors of beef or cattle smuggling, even when no evidence is found.",
+    "correct": null,
+    "score": 0
+   },
+   {
+    "id": "q04",
+    "model": "sarvam-105b",
+    "mc": true,
+    "gold": "B",
+    "answer": "A",
+    "explanation": "The 2002 hit-and-run accident involving Salman Khan's Land Cruiser took place in front of A1 Bakery in Bandra.",
+    "correct": false,
+    "score": 0.0
+   },
+   {
+    "id": "q05",
+    "model": "sarvam-105b",
+    "mc": false,
+    "gold": "Dr. Hathi (Dr. Hansraj Hathi)",
+    "answer": "Dr. Hansraj Hathi",
+    "explanation": "He is the overweight doctor in Gokuldham society and the father of Goli and Sonalika.",
+    "correct": null,
+    "score": 1
+   },
+   {
+    "id": "q06",
+    "model": "sarvam-105b",
+    "mc": true,
+    "gold": "C",
+    "answer": "C",
+    "explanation": "The Japanese adult film industry has reportedly struggled to recruit enough male performers, a demographic shortfall linked to the country's aging population and declining birth rates.",
+    "correct": true,
+    "score": 1.0
+   },
+   {
+    "id": "q07",
+    "model": "sarvam-105b",
+    "mc": false,
+    "gold": "Many of the men had undergone (forced) vasectomies, and now want them reversed",
+    "answer": "They were using smartphones and social media in the jungle",
+    "explanation": "Surrendered Naxalites revealed they had accessed WhatsApp, Facebook and the internet even deep inside forests, showing how even remote rebel camps were digitally connected.",
+    "correct": null,
+    "score": 0
+   },
+   {
+    "id": "q08",
+    "model": "sarvam-105b",
+    "mc": true,
+    "gold": "B",
+    "answer": "B",
+    "explanation": "Under the new Afghan rules, causing harm to a camel can draw a stiffer penalty than spousal abuse.",
+    "correct": true,
+    "score": 1.0
+   },
+   {
+    "id": "q09",
+    "model": "sarvam-105b",
+    "mc": false,
+    "gold": "Allu Arjun",
+    "answer": "Allu Arjun",
+    "explanation": "He is a popular actor in Telugu cinema who is widely recognized by this title.",
+    "correct": null,
+    "score": 1
+   },
+   {
+    "id": "q10",
+    "model": "sarvam-105b",
+    "mc": false,
+    "gold": "Prabhas (the title was earlier his uncle Krishnam Raju's)",
+    "answer": "Chiranjeevi",
+    "explanation": "He is a legendary Telugu actor who earned the nickname 'Rebel Star' for his rebellious on-screen image and energetic persona.",
+    "correct": null,
+    "score": 0
+   },
+   {
+    "id": "q11",
+    "model": "sarvam-105b",
+    "mc": true,
+    "gold": "D",
+    "answer": "D",
+    "explanation": "The question refers to a real arrest, and murder is the only actual heinous crime listed among the options.",
+    "correct": true,
+    "score": 1.0
+   },
+   {
+    "id": "q12",
+    "model": "sarvam-105b",
+    "mc": false,
+    "gold": "DaMENSCH",
+    "answer": "Peter England",
+    "explanation": "Peter is a German-origin name, and the brand is popular for men's innerwear in India.",
+    "correct": null,
+    "score": 0
+   },
+   {
+    "id": "q13",
+    "model": "sarvam-105b",
+    "mc": false,
+    "gold": "The building's sewage (it wasn't connected to a sewer system)",
+    "answer": "garbage",
+    "explanation": "The tower's vast daily output of waste from its offices, hotel, and observation decks required huge, queued trucks for removal.",
+    "correct": null,
+    "score": 0.5
+   },
+   {
+    "id": "q14",
+    "model": "sarvam-105b",
+    "mc": true,
+    "gold": "D",
+    "answer": "D",
+    "explanation": "This joke references a famous sarcastic anecdote from the late 1970s–80s about Indian intelligence’s awareness of Pakistan's atomic ambitions under General Zia, widely recalled in Indian political humor.",
+    "correct": true,
+    "score": 1.0
+   },
+   {
+    "id": "q15",
+    "model": "sarvam-105b",
+    "mc": false,
+    "gold": "\"Arrange that\"",
+    "answer": "I have my own.",
+    "explanation": "The show frames the sub-20-second text-back from a leaked chat as a quick, dismissive billionaire flex.",
+    "correct": null,
+    "score": 0
+   },
+   {
+    "id": "q01",
+    "model": "gpt-6-luna",
+    "mc": true,
+    "gold": "B",
+    "answer": "A",
+    "explanation": "She called him “Lund buddhi,” an insulting term, because he refused to leave his parents.",
+    "correct": false,
+    "score": 0.0
+   },
+   {
+    "id": "q02",
+    "model": "gpt-6-luna",
+    "mc": false,
+    "gold": "Clean toilets",
+    "answer": "He was repeatedly made to clean toilets.",
+    "explanation": "ISIS assigned Areeb Majeed menial work, including cleaning latrines.",
+    "correct": null,
+    "score": 1
+   },
+   {
+    "id": "q03",
+    "model": "gpt-6-luna",
+    "mc": false,
+    "gold": "A dispute over a seat",
+    "answer": "He was suspected of stealing a mobile phone.",
+    "explanation": "Passengers allegedly beat him after accusing him of theft; he later died from his injuries.",
+    "correct": null,
+    "score": 0
+   },
+   {
+    "id": "q04",
+    "model": "gpt-6-luna",
+    "mc": true,
+    "gold": "B",
+    "answer": "B",
+    "explanation": "Salman Khan’s Land Cruiser accident occurred outside American Express Bakery in Bandra.",
+    "correct": true,
+    "score": 1.0
+   },
+   {
+    "id": "q05",
+    "model": "gpt-6-luna",
+    "mc": false,
+    "gold": "Dr. Hathi (Dr. Hansraj Hathi)",
+    "answer": "Dr. Hansraj Hathi",
+    "explanation": "He is the plus-sized doctor in Taarak Mehta Ka Ooltah Chashmah.",
+    "correct": null,
+    "score": 1
+   },
+   {
+    "id": "q06",
+    "model": "gpt-6-luna",
+    "mc": true,
+    "gold": "C",
+    "answer": "C",
+    "explanation": "Reports have described a shortage of male performers in Japan’s adult-film industry.",
+    "correct": true,
+    "score": 1.0
+   },
+   {
+    "id": "q07",
+    "model": "gpt-6-luna",
+    "mc": false,
+    "gold": "Many of the men had undergone (forced) vasectomies, and now want them reversed",
+    "answer": "They had been cut off from modern life for years—many had never used a mobile phone or seen electricity.",
+    "explanation": "Surrenders revealed how isolated their lives in the forest had been.",
+    "correct": null,
+    "score": 0
+   },
+   {
+    "id": "q08",
+    "model": "gpt-6-luna",
+    "mc": true,
+    "gold": "B",
+    "answer": "B",
+    "explanation": "The code reportedly treats mistreating a camel more harshly than severely injuring a wife.",
+    "correct": true,
+    "score": 1.0
+   },
+   {
+    "id": "q09",
+    "model": "gpt-6-luna",
+    "mc": false,
+    "gold": "Allu Arjun",
+    "answer": "Allu Arjun",
+    "explanation": "The Telugu film star was widely known as the “Stylish Star.”",
+    "correct": null,
+    "score": 1
+   },
+   {
+    "id": "q10",
+    "model": "gpt-6-luna",
+    "mc": false,
+    "gold": "Prabhas (the title was earlier his uncle Krishnam Raju's)",
+    "answer": "Krishnam Raju",
+    "explanation": "The Telugu actor Krishnam Raju was popularly known as the “Rebel Star.”",
+    "correct": null,
+    "score": 1
+   },
+   {
+    "id": "q11",
+    "model": "gpt-6-luna",
+    "mc": true,
+    "gold": "D",
+    "answer": "D",
+    "explanation": "He was accused of arranging an attack on a tea-stall owner in a property dispute, a case reported as attempted murder.",
+    "correct": true,
+    "score": 1.0
+   },
+   {
+    "id": "q12",
+    "model": "gpt-6-luna",
+    "mc": false,
+    "gold": "DaMENSCH",
+    "answer": "Lux Industries (Lux Cozi)",
+    "explanation": "It’s an Indian apparel company known for men’s innerwear, including its Lux Cozi brand.",
+    "correct": null,
+    "score": 0
+   },
+   {
+    "id": "q13",
+    "model": "gpt-6-luna",
+    "mc": false,
+    "gold": "The building's sewage (it wasn't connected to a sewer system)",
+    "answer": "Sewage (wastewater).",
+    "explanation": "Dubai’s sewer network couldn’t handle the Burj Khalifa, so tanker trucks hauled its sewage away.",
+    "correct": null,
+    "score": 1
+   },
+   {
+    "id": "q14",
+    "model": "gpt-6-luna",
+    "mc": true,
+    "gold": "D",
+    "answer": "D",
+    "explanation": "Morarji Desai reportedly told General Zia-ul-Haq that India knew about Pakistan’s nuclear site at Kahuta.",
+    "correct": true,
+    "score": 1.0
+   },
+   {
+    "id": "q15",
+    "model": "gpt-6-luna",
+    "mc": false,
+    "gold": "\"Arrange that\"",
+    "answer": "“Yes, please.”",
+    "explanation": "Ambani reportedly accepted Epstein’s offer almost immediately.",
+    "correct": null,
+    "score": 0
+   }
+  ]
+ }
+}

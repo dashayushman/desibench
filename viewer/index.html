@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>desibench · Sarvam vs OpenAI</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-in">
+      <p class="brand"><b>desibench</b> <span>Which AI is more desi? Sarvam vs OpenAI</span></p>
+      <div class="seg" role="tablist" aria-label="Whose run" data-runs>
+        <button data-run="reference">My run</button>
+        <button data-run="yours">Your run</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <p class="note" data-note></p>
+
+    <section class="board" aria-label="Final score">
+      <div class="side s"><span class="who">Sarvam</span><b data-pts="sarvam-tuned">0</b><small>points</small></div>
+      <span class="vs">vs</span>
+      <div class="side o"><span class="who">OpenAI</span><b data-pts="openai">0</b><small>points</small></div>
+    </section>
+    <section class="rounds" data-rounds aria-label="The six rounds"></section>
+
+    <h2>Round by round</h2>
+    <section class="details" data-details></section>
+
+    <h2>Watch an episode, both transcripts side by side</h2>
+    <section class="watch">
+      <div class="w-bar">
+        <div class="seg" data-eps></div>
+        <input type="search" placeholder="Search both transcripts…" data-q />
+      </div>
+      <div class="w-grid">
+        <div class="player"><div id="yt"></div></div>
+        <div class="tx2">
+          <div class="col s"><p class="col-h">Sarvam <span data-meta-s></span></p><div class="tx" data-tx-s></div></div>
+          <div class="col o"><p class="col-h">OpenAI <span data-meta-o></span></p><div class="tx" data-tx-o></div></div>
+        </div>
+      </div>
+    </section>
+
+    <h2>Frame by frame: what each AI saw</h2>
+    <section class="frames" data-frames></section>
+
+    <footer class="foot">
+      <p>Ground truth: <code>answers/</code> (see <code>answers/README.md</code>). The story version of these results:
+        <a href="https://desibench.aiwithayushman.com">desibench.aiwithayushman.com</a>. Built by Ayushman Dash.</p>
+    </footer>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

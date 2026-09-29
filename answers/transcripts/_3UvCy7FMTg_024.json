@@ -1,0 +1,17 @@
+{"clip": "_3UvCy7FMTg_024",
+ "lines": [
+  {"t": "24:01", "speaker": "Gursimran Khamba", "text": "That's the wrong answer. Yeah. Which could be the nationality? I wonder. I wonder. Anybody want to try? Jose, you want to try?"},
+  {"t": "24:08", "speaker": "Jose Covaco", "text": "What luck, there aren't four people here on this."},
+  {"t": "24:10", "speaker": "Gursimran Khamba", "text": "Yeah. Yeah. Anyway, you want to try? So American is gone. Yeah. And Dutch is gone. There's British and Chinese."},
+  {"t": "24:19", "speaker": "Jose Covaco", "text": "I'll just come back."},
+  {"t": "24:21", "speaker": "guest", "text": "Yeah."},
+  {"t": "24:21", "speaker": "Jose Covaco", "text": "I feel like it was a British guy, and he was sitting on the, woh, hand rest."},
+  {"t": "24:31", "speaker": "guest", "text": "Oh. Uska ek hi dikh raha tha udhar se. Oh. Oh."},
+  {"t": "24:36", "speaker": "Jose Covaco", "text": "So the AI was like, uska ek hi aankh hai, nahi?"},
+  {"t": "24:43", "speaker": "guest", "text": "I agree, it could be British because they have myopic vision. Right?"},
+  {"t": "24:47", "speaker": "Jose Covaco", "text": "History, right? I was pandering, didn't happen. Continue."},
+  {"t": "24:51", "speaker": "guest", "text": "Woh biopic hai."},
+  {"t": "24:53", "speaker": "Gursimran Khamba", "text": "That is also the wrong answer, Jose. The answer is, wait, can we guess? Chinese man."}
+ ],
+ "uncertain": ["'Woh biopic hai' (myopic?)", "overlapping 'Yeah's in crosstalk"],
+ "notes": "Crosstalk minute. Sarvam default/keyterm variants dropped the Hindi lines and inserted 4 phantom show-name lines."}

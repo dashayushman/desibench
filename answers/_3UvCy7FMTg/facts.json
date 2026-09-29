@@ -1,0 +1,62 @@
+{
+ "video_id": "_3UvCy7FMTg",
+ "built_by": "Ayushman Dash, from the podium scoreboards and round cards in the frames, cross-checked against the dialogue",
+ "podium_order": [
+  "Jose Covaco",
+  "Kenny Sebastian",
+  "Abish Mathew"
+ ],
+ "rounds": [
+  {
+   "name": "Round 1: True Story",
+   "start": 325,
+   "evidence": "ROUND 1 TRUE STORY card at 05:25"
+  },
+  {
+   "name": "Audience round",
+   "start": 1594,
+   "evidence": "host: 'the next round is an audience question round' at 26:34; END OF ROUND 1 card at 26:45"
+  },
+  {
+   "name": "Round 2: Pick Me Behaviour",
+   "start": 1860,
+   "evidence": "ROUND 2 'PICK ME BEHAVIOUR' card at 31:00"
+  },
+  {
+   "name": "Round 3: Who Am I?",
+   "start": 3405,
+   "evidence": "ROUND 3 WHO AM I? card at 56:45"
+  }
+ ],
+ "scores_before_round3": {
+  "Jose Covaco": 310,
+  "Kenny Sebastian": 300,
+  "Abish Mathew": 280,
+  "evidence": "podium displays at 56:20 (frame_00679)"
+ },
+ "wagers_round3": {
+  "Abish Mathew": {
+   "wager": 220,
+   "correct": true
+  },
+  "Kenny Sebastian": {
+   "wager": 70,
+   "correct": true
+  },
+  "Jose Covaco": {
+   "wager": 200,
+   "correct": true
+  }
+ },
+ "final_scores": {
+  "Jose Covaco": 510,
+  "Abish Mathew": 500,
+  "Kenny Sebastian": 370,
+  "evidence": "host at 71:41-72:38: 'Abish ... 500', 'Kenny ... from 300 to 370', 'That makes your score 510'"
+ },
+ "winner": "Jose Covaco",
+ "prize": "a kid's electric guitar (toy)",
+ "round3_identity_examples": [
+  "Osama Bin Laden (answer card at 70:25)"
+ ]
+}

@@ -1,0 +1,16 @@
+{"clip": "2pxmtBus3f8_038",
+ "lines": [
+  {"t": "38:00", "speaker": "Gursimran Khamba", "text": "Thank you."},
+  {"t": "38:06", "speaker": "Gursimran Khamba", "text": "Fans, I tell you, gotta love them. You know. No matter how much damage it happens. All right, at the end of the audience round, Aman, let us look at what the scores are again."},
+  {"t": "38:21", "speaker": "Gursimran Khamba", "text": "So such a perfect thing has happened because Abish got 20 points for getting an applause, but then minus 100 happened."},
+  {"t": "38:25", "speaker": "guest", "text": "Yes. Yes."},
+  {"t": "38:26", "speaker": "Gursimran Khamba", "text": "So he is exactly tied with Kaneez at 220."},
+  {"t": "38:32", "speaker": "guest", "text": "Oh, right. Yeah, cinematic. Oh yeah."},
+  {"t": "38:36", "speaker": "Gursimran Khamba", "text": "And Joshi got plus twenty for getting an applause, so he's at 440."},
+  {"t": "38:43", "speaker": "guest", "text": "You're on a roll."},
+  {"t": "38:44", "speaker": "Gursimran Khamba", "text": "Now let us move on to round two. Are you guys ready to play round two?"},
+  {"t": "38:50", "speaker": "voice-over", "text": "Round two is called Pick Me Behaviour. Each contestant gets to pick a category on which they'll be asked a question. Let's play."},
+  {"t": "38:58", "speaker": "Gursimran Khamba", "text": "All right, round two is called Pick Me Behaviour. Guys, we're gonna show you nine categories. You have to pick one."}
+ ],
+ "uncertain": ["38:00-38:05 fragments ('Kukad' / 'Thank you also, Jee, you're the man'): omitted", "a guest line around 38:33 ('How you're doing competition')"],
+ "notes": "Game logic: Rohan went 420 → 440 on the scoreboard, so it's 'plus twenty', not 'plus 24' (most systems). Sarvam+keyterms: 3 phantom show-name lines + a phantom 'Kaneez Surka'."}

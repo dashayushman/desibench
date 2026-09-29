@@ -1,0 +1,11 @@
+{
+ "episode": "EP 1",
+ "people": [
+  {"name": "Gursimran Khamba", "role": "host"},
+  {"name": "Kenny Sebastian", "role": "guest", "handle": "@KennySebastian"},
+  {"name": "Jose Covaco", "role": "guest", "handle": "@Hoezaay"},
+  {"name": "Abish Mathew", "role": "guest", "handle": "@sonofabish"}
+ ],
+ "keyterms": ["The Nation Wants to Guess", "Gursimran Khamba", "Khamba", "Kenny Sebastian", "Jose Covaco", "Abish Mathew"],
+ "_note": "Identical inputs for both arms: people go into every LLM prompt, keyterms into Sarvam keyterms / gpt-transcribe keywords."
+}

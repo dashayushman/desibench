@@ -1,0 +1,18 @@
+{"clip": "2pxmtBus3f8_036",
+ "lines": [
+  {"t": "36:00", "speaker": "Gursimran Khamba", "text": "You want to play for Abish?"},
+  {"t": "36:00", "speaker": "Jeet (audience)", "text": "I just wanted to say hi to you, buddy."},
+  {"t": "36:15", "speaker": "Gursimran Khamba", "text": "You know, that's what Marwadis need, more money. All right. Now that you are playing for Abish, there are these three boxes, all right? From here, you have to pick one of the boxes. In any of the three boxes, we don't know what it is. One of them has positive points, one of them has negative points, and the third one has money. All right? So which box would you like to choose?"},
+  {"t": "36:39", "speaker": "Jeet (audience)", "text": "Second one."},
+  {"t": "36:40", "speaker": "Gursimran Khamba", "text": "The middle one, you mean?"},
+  {"t": "36:41", "speaker": "Jeet (audience)", "text": "Yes."},
+  {"t": "36:41", "speaker": "Gursimran Khamba", "text": "All right. Are you sure?"},
+  {"t": "36:43", "speaker": "Jeet (audience)", "text": "Yes."},
+  {"t": "36:44", "speaker": "Gursimran Khamba", "text": "Okay. Aman, do the move. All right. Hold on. Hold on. Where's that twist? So now the box is here. Do you still want to go with this box?"},
+  {"t": "36:56", "speaker": "Jeet (audience)", "text": "Yes."},
+  {"t": "36:57", "speaker": "Gursimran Khamba", "text": "Are you sure?"},
+  {"t": "36:58", "speaker": "Jeet (audience)", "text": "Yes."},
+  {"t": "36:59", "speaker": "Gursimran Khamba", "text": "All right."}
+ ],
+ "uncertain": ["'Tera di' fragment at 36:22: omitted", "'Ayush' vs 'Are you' before 'do you still want'"],
+ "notes": "gpt-transcribe (both runs) output nothing for this minute: verified in the raw response, not an alignment artifact. Sarvam+keyterms: 3 phantom show-name lines."}

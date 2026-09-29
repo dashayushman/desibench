@@ -1,0 +1,16 @@
+{"clip": "_3UvCy7FMTg_042",
+ "lines": [
+  {"t": "42:00", "speaker": "Gursimran Khamba", "text": "Yeah, which one have you been watching, Abish?"},
+  {"t": "42:01", "speaker": "Abish Mathew", "text": "Yeah. Uh, I've been watching part one and two."},
+  {"t": "42:05", "speaker": "Gursimran Khamba", "text": "Don't slide back and forth like that. Don't leave my podium alone."},
+  {"t": "42:12", "speaker": "Abish Mathew", "text": "They're either fighting or they're very sexual suddenly. What is this? Make up your mind. Guys, kissing."},
+  {"t": "42:21", "speaker": "Gursimran Khamba", "text": "No."},
+  {"t": "42:22", "speaker": "Abish Mathew", "text": "Kissing pe ruka tha na?"},
+  {"t": "42:25", "speaker": "Gursimran Khamba", "text": "That's how I sip tea, Abish. Anyway, answer the fucking question, Mathew."},
+  {"t": "42:30", "speaker": "Abish Mathew", "text": "It's actually tough. Um, I'm gonna go for Harry Potter and the Gobbling of Cock."},
+  {"t": "42:39", "speaker": "Gursimran Khamba", "text": "Why do you feel it's that one, Abish?"},
+  {"t": "42:41", "speaker": "Abish Mathew", "text": "Because search engine optimizing. Gobbling a cock sounds funnier and it will engage more people to click. Yeah, because that's how porn works."},
+  {"t": "42:55", "speaker": "Gursimran Khamba", "text": "Click."}
+ ],
+ "uncertain": ["'part one and two' vs 'part 1'", "'Gobbling' vs 'Goblet'"],
+ "notes": "All three gpt-transcribe-based systems (with and without keywords, and the OpenAI pipeline) output NOTHING for this minute. Sarvam+keyterms: 'Abish' → 'Kenny Sebastian' and 2 phantom show-name lines."}

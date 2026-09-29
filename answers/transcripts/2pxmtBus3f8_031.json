@@ -1,0 +1,19 @@
+{"clip": "2pxmtBus3f8_031",
+ "lines": [
+  {"t": "31:01", "speaker": "Gursimran Khamba", "text": "Oh man."},
+  {"t": "31:02", "speaker": "guest", "text": "Thamba, thamba. Isn't it nice when you know someone else will go to jail? It's such a good feeling."},
+  {"t": "31:10", "speaker": "Gursimran Khamba", "text": "All right, anybody want to take a guess? Should we move on? Yes, Rohan."},
+  {"t": "31:14", "speaker": "Rohan Joshi", "text": "Bhaag, rasta cross kar."},
+  {"t": "31:23", "speaker": "Gursimran Khamba", "text": "Let's move on. Let's move on. Give me plus twenty."},
+  {"t": "31:25", "speaker": "guest", "text": "Give me plus twenty."},
+  {"t": "31:27", "speaker": "guest", "text": "Reveal the answer."},
+  {"t": "31:28", "speaker": "Gursimran Khamba", "text": "Ha ha, the right answer is shooting star. Okay, let's move on. Let's move on. Next option. What is the title? Yes."},
+  {"t": "31:40", "speaker": "guest", "text": "Seven star."},
+  {"t": "31:41", "speaker": "Gursimran Khamba", "text": "No, close enough."},
+  {"t": "31:42", "speaker": "guest", "text": "Five star."},
+  {"t": "31:43", "speaker": "Gursimran Khamba", "text": "Yes, Kaneez got it, right answer. Yes. Next option. Yes. Yeah, yeah, yeah. Kaneez got it first. Kaneez got it first."},
+  {"t": "31:52", "speaker": "guest", "text": "Give him."},
+  {"t": "31:55", "speaker": "Gursimran Khamba", "text": "All right, last option. He shot. Last option. He shot."}
+ ],
+ "uncertain": ["'Bhaag, rasta cross kar' (a middle word unclear: bhaddur/bera)", "'Give me plus twenty' (systems: class 20 / plus twenty do)", "crosstalk around 'Seven star / Five star'"],
+ "notes": "YouTube's most-replayed minute of the Finale. All gpt-transcribe-based systems output nothing. Nobody but Sarvam+keyterms got 'Kaneez' (Kaleez/Kanish/Kareem). Keyterms also turned 'Thamba, thamba' into 'Khamba, Khamba' and a Hindi line into 'The Nation Wants to Guess'."}

@@ -1,0 +1,50 @@
+{
+ "video_id": "2pxmtBus3f8",
+ "built_by": "Ayushman Dash, from the podium scoreboards and round cards in the frames, cross-checked against the dialogue",
+ "podium_order": [
+  "Abish Mathew",
+  "Rohan Joshi",
+  "Kaneez Surka"
+ ],
+ "rounds": [
+  {
+   "name": "Round 1: True Story",
+   "start": 460,
+   "evidence": "ROUND 1 TRUE STORY card at 07:40"
+  },
+  {
+   "name": "Audience round",
+   "start": 2070,
+   "evidence": "AUDIENCE ROUND card (Haldiram's question) at 34:30"
+  },
+  {
+   "name": "Round 2: Pick Me Behaviour",
+   "start": 2325,
+   "evidence": "ROUND 2 'PICK ME BEHAVIOUR' card at 38:45"
+  },
+  {
+   "name": "Round 3: Who Am I?",
+   "start": 4315,
+   "evidence": "WHO AM I? card at 71:55"
+  }
+ ],
+ "scores_after_round1": {
+  "Abish Mathew": 300,
+  "Rohan Joshi": 420,
+  "Kaneez Surka": 220,
+  "evidence": "podium displays at 34:05 (frame_00410); host: 'Kaneez is at 220 ... Abish 300 ... Rohan Joshi is at 420'"
+ },
+ "scores_before_round3": {
+  "Abish Mathew": 395,
+  "Rohan Joshi": 740,
+  "Kaneez Surka": 500,
+  "evidence": "podium displays at 71:30-71:40"
+ },
+ "final_scores": {
+  "Abish Mathew": 0,
+  "Rohan Joshi": 990,
+  "Kaneez Surka": 0,
+  "evidence": "podium displays at 84:35 (frame_01016): 0 / 990 / 0"
+ },
+ "winner": "Rohan Joshi"
+}

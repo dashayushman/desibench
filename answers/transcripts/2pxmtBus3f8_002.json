@@ -1,0 +1,11 @@
+{"clip": "2pxmtBus3f8_002",
+ "lines": [
+  {"t": "02:01", "speaker": "broker (sketch)", "text": "Achha, dekh, PPT tumse banti nahi hai, ghar banane nikle ho tum?"},
+  {"t": "02:06", "speaker": "Gursimran Khamba", "text": "Sir, lekin par"},
+  {"t": "02:07", "speaker": "broker (sketch)", "text": "Chal khada ho yahan se. Aa jaate hain munh utha ke. Kuch bada karo 2.5 BHK ke liye."},
+  {"t": "02:17", "speaker": "Gursimran Khamba", "text": "Bada karke dikhaunga, sir."},
+  {"t": "02:20", "speaker": "broker (sketch)", "text": "Aur chhote, chai nahi laani. Aur woh jo apna Lokhandwala wala flat hai, woh KV ko de do."},
+  {"t": "02:46", "speaker": "Gursimran Khamba", "text": "Hello and welcome to DaMENSCH presents The Nation Wants to Guess. Yes! All right, we are India's most unserious comedy quiz show jahan pe right answer ko milta hai plus ten and applause break ko milta hai plus twenty. Show me the applause break."}
+ ],
+ "uncertain": ["'jahan pe ... ko milta hai' (jahan hamein ... milta hai)"],
+ "notes": "Sponsor 'DaMENSCH' is on screen; no system got it (Dementz/Dementium/Dumensch/Damanch). One Sarvam variant wrote a Hindi line in Urdu script. Sarvam+keyterms replaced 4 Hindi lines with 'The Nation Wants to Guess'. Sarvam default translated 'ghar banane nikle ho tum' into English."}

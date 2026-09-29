@@ -1,0 +1,142 @@
+{
+ "_note": "The show's Who Am I round: the hints as Gursimran read them, one at a time. A guess is right when it contains one of the accept parts. Points: 10 x (hints left + 1) when solved, as on the show.",
+ "rules": "5 hints, 3 attempts, only 1 guess per hint",
+ "items": [
+  {
+   "id": "ep1_p1",
+   "video_id": "_3UvCy7FMTg",
+   "answer": "Mother Teresa",
+   "category": "global/India icon",
+   "hint_times": [
+    3525,
+    3555,
+    3585,
+    3655,
+    3675
+   ],
+   "hints": [
+    "I was virtue signalling before it was cool",
+    "Haters prayed for my downfall but I kept slaying",
+    "Every Miss World would name drop me in the 90s",
+    "I would've been the perfect target audience for Tide detergent",
+    "I am known to help needy and downtrodden in Bengal"
+   ],
+   "accept": [
+    "teresa"
+   ]
+  },
+  {
+   "id": "ep1_p2",
+   "video_id": "_3UvCy7FMTg",
+   "answer": "Kunal Kamra",
+   "category": "Indian comedian (local context)",
+   "hint_times": [
+    3840,
+    3875,
+    3930,
+    3970,
+    4023
+   ],
+   "hints": [
+    "I grew up in Maharashtra but now I reside in the south",
+    "Hair loss is the least of my problems",
+    "When it comes to cabs, I only take Uber",
+    "Looks-wise, I have become what I hated",
+    "I am every lawyer's dream client"
+   ],
+   "comedian": "Kenny Sebastian, correct after hint 5 (67:24)",
+   "accept": [
+    "kamra"
+   ]
+  },
+  {
+   "id": "ep1_p3",
+   "video_id": "_3UvCy7FMTg",
+   "answer": "Osama bin Laden",
+   "category": "global",
+   "hint_times": [
+    4085,
+    4095,
+    4120,
+    4175,
+    4210
+   ],
+   "hints": [
+    "I love playing hide and seek",
+    "I have a high body count",
+    "I love living off grid",
+    "My fav song is \"Wake me up when September ends\"",
+    "I've had a very explosive career"
+   ],
+   "accept": [
+    "osama",
+    "bin laden"
+   ]
+  },
+  {
+   "id": "fin_p1",
+   "video_id": "2pxmtBus3f8",
+   "answer": "Stephen Hawking",
+   "category": "global",
+   "hint_times": [
+    4365,
+    4380
+   ],
+   "hints": [
+    "They see me rolling, they hating",
+    "Battery life is very important"
+   ],
+   "comedian": "solved after 2 hints",
+   "accept": [
+    "hawking"
+   ]
+  },
+  {
+   "id": "fin_p2",
+   "video_id": "2pxmtBus3f8",
+   "answer": "Rahul Gandhi",
+   "category": "Indian politics (local context)",
+   "hint_times": [
+    4520,
+    4535,
+    4560,
+    4595,
+    4625
+   ],
+   "hints": [
+    "Everyone asks me, \"mummy kaisi hain\"",
+    "Haq se single",
+    "Winning isn't everything",
+    "I'm not the life of a party, I'm the death of a party",
+    "I am the aakhri pasta"
+   ],
+   "comedian": "Kaneez Surka, missed (answer revealed at 79:32)",
+   "accept": [
+    "rahul gandhi"
+   ]
+  },
+  {
+   "id": "fin_p3",
+   "video_id": "2pxmtBus3f8",
+   "answer": "Adolf Hitler",
+   "category": "global",
+   "hint_times": [
+    4825,
+    4835,
+    4885,
+    4900,
+    4915
+   ],
+   "hints": [
+    "My speeches bring all the boys to the yard",
+    "To my critics I say, 'Mat kar lala'",
+    "I blame all my failures on past leaders",
+    "I have a very passionate fan base",
+    "I despise liberals and intellectuals"
+   ],
+   "accept": [
+    "hitler"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+# Python 3.10+. Also needs ffmpeg on your PATH (macOS: brew install ffmpeg · Ubuntu: sudo apt install ffmpeg).
+httpx>=0.28,<0.29
+truststore>=0.10
+sarvamai==0.1.34
+json-repair>=0.63
+jiwer>=4.0,<5
+num2words>=0.5.14
+indic-transliteration>=2.3.82
+yt-dlp

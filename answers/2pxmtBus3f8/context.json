@@ -1,0 +1,11 @@
+{
+ "episode": "Finale",
+ "people": [
+  {"name": "Gursimran Khamba", "role": "host"},
+  {"name": "Kaneez Surka", "role": "guest", "handle": "@kaneezsurka007"},
+  {"name": "Abish Mathew", "role": "guest", "handle": "@sonofabish"},
+  {"name": "Rohan Joshi", "role": "guest", "handle": "@rohanjoshi8016"}
+ ],
+ "keyterms": ["The Nation Wants to Guess", "Gursimran Khamba", "Khamba", "Kaneez Surka", "Abish Mathew", "Rohan Joshi"],
+ "_note": "Identical inputs for both arms: people go into every LLM prompt, keyterms into Sarvam keyterms / gpt-transcribe keywords."
+}

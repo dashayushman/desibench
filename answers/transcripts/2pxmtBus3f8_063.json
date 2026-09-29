@@ -1,0 +1,21 @@
+{"clip": "2pxmtBus3f8_063",
+ "lines": [
+  {"t": "63:03", "speaker": "guest", "text": "Because like you were sitting outside the office looking sad."},
+  {"t": "63:09", "speaker": "guest", "text": "Low budget."},
+  {"t": "63:10", "speaker": "guest", "text": "Yeah. Oh."},
+  {"t": "63:14", "speaker": "Abish Mathew", "text": "I have the answer. Yes. It is AIB, because you hired, no."},
+  {"t": "63:22", "speaker": "Gursimran Khamba", "text": "Should we give him five points?"},
+  {"t": "63:25", "speaker": "guest", "text": "I think we should give, he was almost right."},
+  {"t": "63:27", "speaker": "Gursimran Khamba", "text": "Yes, he was almost right. Let's give you the answer. BIA. No, no, no, no, no. No, you have a good thing going into it. IB, IB, IB."},
+  {"t": "63:34", "speaker": "guest", "text": "IB, IB, irritable bowel syndrome."},
+  {"t": "63:36", "speaker": "Kaneez Surka", "text": "AI, AI."},
+  {"t": "63:38", "speaker": "Gursimran Khamba", "text": "Yes, Kaneez got the right answer, yes. What? But we should give Abish also a little bit, he helped. Let's give Kaneez ten and Abish five."},
+  {"t": "63:47", "speaker": "guest", "text": "Give Kaneez ten and Abish five."},
+  {"t": "63:49", "speaker": "Gursimran Khamba", "text": "Yes, yes, yes. AI companies want to harvest improv actor skill to train AI on human emotion. Yes."},
+  {"t": "63:55", "speaker": "Kaneez Surka", "text": "You're welcome."},
+  {"t": "63:56", "speaker": "guest", "text": "Yeah."},
+  {"t": "63:56", "speaker": "Gursimran Khamba", "text": "That's right."},
+  {"t": "63:57", "speaker": "Kaneez Surka", "text": "Comedy is about bringing people together, like I said in the beginning."}
+ ],
+ "uncertain": ["name after 'because you hired' (Lurasulus / Louis): omitted", "letter-soup crosstalk around 'BIA / IB'"],
+ "notes": "Answer card: AI (The Verge). One Sarvam variant looped 'no' ~60 times (repetition hallucination). gpt-transcribe merged speakers and misread 'AI, AI' as 'AIB'."}

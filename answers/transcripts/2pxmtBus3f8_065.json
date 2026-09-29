@@ -1,0 +1,15 @@
+{"clip": "2pxmtBus3f8_065",
+ "lines": [
+  {"t": "65:03", "speaker": "guest", "text": "Here's a suggestion: get a job. You're supposed to say, yes, and."},
+  {"t": "65:22", "speaker": "guest", "text": "I'm sorry. I'm really sorry."},
+  {"t": "65:24", "speaker": "Kaneez Surka", "text": "No, it's okay."},
+  {"t": "65:26", "speaker": "guest", "text": "Are you?"},
+  {"t": "65:28", "speaker": "guest", "text": "I'm not sorry."},
+  {"t": "65:31", "speaker": "Gursimran Khamba", "text": "Let's go to the categories. Kaneez, your turn to pick."},
+  {"t": "65:35", "speaker": "Kaneez Surka", "text": "Okay. Ah, I'll go for Barbeque Nation because I ate there once."},
+  {"t": "65:39", "speaker": "Gursimran Khamba", "text": "Kaneez has picked Barbeque Nation. All right. Iran became a barbeque nation."},
+  {"t": "65:53", "speaker": "guest", "text": "Hey look, Israel, your favourite."},
+  {"t": "65:59", "speaker": "Gursimran Khamba", "text": "When Israel and America launched a coordinated attack on 28 Feb 2026, in response Iran retaliated much like the song B Praak wrote"}
+ ],
+ "uncertain": ["Hindi fragment at 65:41 ('apni chhoti' / 'in your small'): omitted"],
+ "notes": "Reference deliberately ends before the song lyric the host reads out (lyrics are not reproduced); scoring treats later words as free padding. gpt-transcribe runs: nothing for most of the minute. 'B Praak' → Big Prague/Big Pragg/Big Bang everywhere. Sarvam+keyterms: 'Kaneez has picked' → 'Kaneez Surka' + 2 phantom show-name lines."}

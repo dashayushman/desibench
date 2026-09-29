@@ -1,0 +1,197 @@
+{
+ "_note": "Questions the show actually asked, with answers confirmed from on-screen reveal cards and the host's ruling. 'era' separates evergreen facts from 2025-26 news (knowledge-cutoff caveat: sarvam-105b launched Feb 2026, gpt-6-luna Sep 2026). Options are given exactly as read out; open questions need a person to grade, so the results page shows them next to the right answer.",
+ "items": [
+  {
+   "id": "q01",
+   "video_id": "_3UvCy7FMTg",
+   "t": 335,
+   "era": "recent",
+   "topic": "courts / domestic",
+   "question": "The Chhattisgarh High Court recently upheld a family court order granting divorce to a man whose wife insulted him by calling him ___ because he refused to leave his parents. What did she call him?",
+   "options": {
+    "A": "Lund buddhi",
+    "B": "Paltu chuha (pet rat)",
+    "C": "Ghonchumal",
+    "D": "Sunil Pal"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q02",
+   "video_id": "_3UvCy7FMTg",
+   "t": 995,
+   "era": "evergreen",
+   "topic": "terrorism news (2014)",
+   "question": "Areeb Majeed, a young man from Kalyan near Mumbai, went abroad in 2014 to join ISIS. Within 6 months he became so disillusioned that he begged Indian authorities to take him back. What work was he repeatedly made to do by ISIS?",
+   "options": null,
+   "answer": "Clean toilets",
+   "reveal": "M News: 'Indian recruit tells investigators he quit terrorist group after being made to clean toilets'"
+  },
+  {
+   "id": "q03",
+   "video_id": "_3UvCy7FMTg",
+   "t": 1150,
+   "era": "recent",
+   "topic": "crime news",
+   "question": "A 37-year-old man was recently beaten (to death) by a mob on a train in Uttar Pradesh. What was the reason behind the incident?",
+   "options": null,
+   "answer": "A dispute over a seat",
+   "reveal": "Hindustan Times: 'Man beaten to death in train after dispute about seat'"
+  },
+  {
+   "id": "q04",
+   "video_id": "_3UvCy7FMTg",
+   "t": 2360,
+   "era": "evergreen",
+   "topic": "Bollywood / Mumbai",
+   "question": "In front of which bakery in Bandra did Salman Khan's Land Cruiser have its accident?",
+   "options": {
+    "A": "A1 Bakery",
+    "B": "American Express Bakery",
+    "C": "J. Hearsch & Co",
+    "D": "Hit and Run Bakery"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "q05",
+   "video_id": "_3UvCy7FMTg",
+   "t": 2985,
+   "era": "evergreen",
+   "topic": "Indian TV",
+   "question": "In Taarak Mehta Ka Ooltah Chashmah, India's longest-running sitcom, what is the name of the plus-sized doctor character?",
+   "options": null,
+   "answer": "Dr. Hathi (Dr. Hansraj Hathi)"
+  },
+  {
+   "id": "q06",
+   "video_id": "2pxmtBus3f8",
+   "t": 495,
+   "era": "news",
+   "topic": "world news",
+   "question": "The Japanese porn industry is reportedly facing an unlikely shortage. What is it running short on?",
+   "options": {
+    "A": "Boba tea",
+    "B": "MILFs",
+    "C": "Men (male performers)",
+    "D": "Animators",
+    "E": "Fluffers",
+    "F": "Viewers",
+    "G": "A deep sense of pride and honour"
+   },
+   "answer": "C",
+   "reveal": "International Business Times: 'only 70 male porn stars to 10,000 women'"
+  },
+  {
+   "id": "q07",
+   "video_id": "2pxmtBus3f8",
+   "t": 1120,
+   "era": "recent",
+   "topic": "Indian security news",
+   "question": "Naxalites (Maoists) have surrendered in large numbers over the past year. Upon surrender, what surprising fact came to light about their life in the jungle?",
+   "options": null,
+   "answer": "Many of the men had undergone (forced) vasectomies, and now want them reversed",
+   "reveal": "Hindustan Times: 'After surrender, Maoists line up to have vasectomies reversed'"
+  },
+  {
+   "id": "q08",
+   "video_id": "2pxmtBus3f8",
+   "t": 1520,
+   "era": "recent",
+   "topic": "world news",
+   "question": "According to the Taliban's new penal code in Afghanistan, which of the following crimes gets the more stringent punishment?",
+   "options": {
+    "A": "Breaking one of your wife's arms",
+    "B": "Mistreating a camel",
+    "C": "Introducing people to Arundhati Roy"
+   },
+   "answer": "B",
+   "reveal": "El País: 'two weeks in jail for breaking a woman's arm and five months for mistreating a camel'"
+  },
+  {
+   "id": "q09",
+   "video_id": "2pxmtBus3f8",
+   "t": 1805,
+   "era": "evergreen",
+   "topic": "South Indian cinema",
+   "question": "Which South Indian film star is known by the title 'Stylish Star'?",
+   "options": null,
+   "answer": "Allu Arjun"
+  },
+  {
+   "id": "q10",
+   "video_id": "2pxmtBus3f8",
+   "t": 1770,
+   "era": "evergreen",
+   "topic": "South Indian cinema",
+   "question": "Which Telugu film star is popularly known as 'Rebel Star'?",
+   "options": null,
+   "answer": "Prabhas (the title was earlier his uncle Krishnam Raju's)"
+  },
+  {
+   "id": "q11",
+   "video_id": "2pxmtBus3f8",
+   "t": 2070,
+   "era": "evergreen",
+   "topic": "Indian business / crime",
+   "question": "Haldiram's proprietor Prabhu Shankar Agarwal was arrested in 2005 for allegedly committing a heinous crime. What crime was he accused of?",
+   "options": {
+    "A": "Not giving extra bhatura",
+    "B": "Selling the obscenely named tasty nuts",
+    "C": "Putting elaichi in biryani",
+    "D": "Murder"
+   },
+   "answer": "D",
+   "reveal": "'Haldiram owner, 4 others get life imprisonment in murder case'"
+  },
+  {
+   "id": "q12",
+   "video_id": "2pxmtBus3f8",
+   "t": 2510,
+   "era": "evergreen",
+   "topic": "Indian brands",
+   "question": "Which Indian company has a German-sounding name and is known for making comfortable innerwear for men?",
+   "options": null,
+   "answer": "DaMENSCH"
+  },
+  {
+   "id": "q13",
+   "video_id": "2pxmtBus3f8",
+   "t": 2720,
+   "era": "evergreen",
+   "topic": "Gulf / trivia",
+   "question": "When the Burj Khalifa opened in 2010, trucks queued up every day assigned to collect something very important. What were they collecting?",
+   "options": null,
+   "answer": "The building's sewage (it wasn't connected to a sewer system)",
+   "reveal": "The News Minute: 'Do you know how the Burj Khalifa takes out its poop?'"
+  },
+  {
+   "id": "q14",
+   "video_id": "2pxmtBus3f8",
+   "t": 3050,
+   "era": "evergreen",
+   "topic": "Indian political history",
+   "question": "Former PM Morarji Desai (known for urine therapy) once revealed a crucial secret to Pakistan's General Zia-ul-Haq. What was it?",
+   "options": {
+    "A": "The batting order of the Indian cricket team",
+    "B": "That Dhurandhar 1 was better than Dhurandhar 2",
+    "C": "That he listens to Pakistani Coke Studio on incognito",
+    "D": "That Indian intelligence knew about Pakistan's nuclear site",
+    "E": "The Rekha–Amitabh affair"
+   },
+   "answer": "D",
+   "reveal": "dailyO: he revealed details of the RAW network in Pakistan and that India knew of its nuclear programme"
+  },
+  {
+   "id": "q15",
+   "video_id": "2pxmtBus3f8",
+   "t": 4175,
+   "era": "recent",
+   "topic": "news (Epstein files)",
+   "question": "In 2017 Jeffrey Epstein reportedly offered Anil Ambani a 'tall Swedish blonde' over text. What did Ambani reply, less than 20 seconds later?",
+   "options": null,
+   "answer": "\"Arrange that\"",
+   "reveal": "NDTV: 'Anil Ambani replied \"Arrange That\"'"
+  }
+ ]
+}

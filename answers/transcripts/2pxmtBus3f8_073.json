@@ -1,0 +1,12 @@
+{"clip": "2pxmtBus3f8_073",
+ "lines": [
+  {"t": "73:00", "speaker": "Gursimran Khamba", "text": "Battery life is very important."},
+  {"t": "73:11", "speaker": "Gursimran Khamba", "text": "Okay. Would you like to guess, or do you want me to give you"},
+  {"t": "73:13", "speaker": "Rohan Joshi", "text": "I would like a guess."},
+  {"t": "73:14", "speaker": "Gursimran Khamba", "text": "All right, all right."},
+  {"t": "73:15", "speaker": "Rohan Joshi", "text": "I would like a guess. Okay, okay, okay. Um, is it, is it Stephen Hawking?"},
+  {"t": "73:43", "speaker": "guest", "text": "Did you get it right? Did you get it right?"},
+  {"t": "73:46", "speaker": "Gursimran Khamba", "text": "Yes, that is the right answer. Holy shitballs. You know, nobody, wow, did not, it was a tough one. We thought we had written a tough one because people couldn't guess in testing. I will give you the three other remaining hints for Rohan, since he's guessed it anyway. Clue number three for you was, main kursi nahi chhodta."}
+ ],
+ "uncertain": ["short Hindi reaction at 73:10 ('jaan bhi khatam'): omitted"],
+ "notes": "Sarvam+keyterms: 5 phantom show-name lines in one minute. 4o-diarize dropped 'Holy shitballs ... nobody' and wrote 'Ohm' for Rohan."}
