@@ -16,7 +16,7 @@ This repo lets you run the whole thing yourself, end to end, on your laptop. You
 | 1 | Who understands the video better? (people on screen counted right) | 51% | 88% | OpenAI |
 | 2 | Who hears Hinglish better? (words wrong, lower is better) | **18.7%** | 21.1% | Sarvam |
 | 3 | Who hears the audience laugh? (laughs and applause heard) | 1 | **70** | OpenAI |
-| 4 | Who knows who's talking? (lines put on the right person) | **64%** | 41% | Sarvam |
+| 4 | Who knows who's talking? (lines put on the right person, out of the box) | **64%** | 41% | Sarvam |
 | 5 | Who understands Indian pop culture better? (Who Am I points, of 270) | 0 | **90** | OpenAI |
 | 6 | Who's cheaper to run? (per hour of video) | $5.50 | **$1.84** | OpenAI |
 | | **Final score** | **40** | **80** | |
@@ -87,6 +87,10 @@ Everything is checked against the ground truth in [`answers/`](answers/README.md
 1. **Words wrong**: each AI's speech-to-text (no name hints) against 24 one-minute reference transcripts, 3,130 words.
    Hindi counts the same in Devanagari or Latin letters, and spelling variants don't count as errors.
 2. **Who's talking**: every reference line spoken by the host or a comedian, checked against whoever the AI put there.
+   As a check on the speaker labels alone, before any language model names them, each raw label is also matched to
+   its best person: there the two are level, Sarvam 72% and OpenAI 75%. OpenAI's labels restart on every 10-minute
+   upload, so it loses the round when its chunks are matched back together. This run doesn't send OpenAI's
+   known-speaker samples, which exist for exactly that.
 3. **The room**: laughs, applause and cheers each AI heard.
 4. **The screen**: frames described and cost per 1,000 frames. How well each AI described the scene was graded frame by
    frame for my run; those grades are in the results, and your run shows you each AI's descriptions side by side.

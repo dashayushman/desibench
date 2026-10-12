@@ -87,7 +87,8 @@ function details(r) {
   const s = r.speakers;
   out.push(`<details><summary>Who knows who's talking?</summary>${table(['', 'Sarvam', 'OpenAI'], [
     ['Lines put on the right person', ...both((a) => pct(s[a].right_person))], ['Lines checked', ...both((a) => s[a].lines_checked)],
-    ...EPS.map(([v, l]) => [`Voices heard, ${l} (4 people talk)`, ...both((a) => s[a].voices_heard?.[v] ?? '—')])])}</details>`);
+    ['The raw labels alone, each matched to its best person', ...both((a) => s[a].raw_labels_right == null ? '—' : pct(s[a].raw_labels_right))],
+    ...EPS.map(([v, l]) => [`Speaker labels, ${l} (4 people talk; OpenAI's restart every 10-minute upload)`, ...both((a) => s[a].voices_heard?.[v] ?? '—')])])}</details>`);
   const rm = r.room;
   out.push(`<details><summary>Who hears the audience laugh?</summary>${table(['', 'Sarvam', 'OpenAI'], [
     ['Laughs, applause and cheers heard', ...both((a) => rm[a].reactions_heard)], ['Laughs heard', ...both((a) => rm[a].laughs_heard)]])}</details>`);

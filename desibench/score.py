@@ -5,7 +5,8 @@
 
 Six rounds, as on the site. Each one uses only what can be checked against an answer key:
   1 ears      words wrong vs the reference transcripts (24 one-minute clips), script-agnostic
-  2 speakers  voices heard; who said each reference line (host and the three comedians)
+  2 speakers  speaker labels used; who said each reference line (host and the three comedians), after the AI
+              names its labels and, as a check on the labels alone, with each raw label matched to its best person
   3 room      laughs, applause and cheers heard
   4 eyes      frames described, cost per 1,000 frames (the scene grades need a person; see answers/README.md)
   5 show      the show's own facts (winner, final scores, rounds), its quiz (multiple choice), Who Am I
@@ -197,17 +198,36 @@ def _person_at(segs, t0, t1):
     return best
 
 
+def raw_labels(root: Path, vid: str, arm: str) -> list[dict]:
+    """The speech model's own speaker labels, before any language model names them. OpenAI's restart on every
+    10-minute upload, so they are kept per chunk ("c03B")."""
+    rd = root / vid / "runs" / arm / "raw" / "stt"
+    if ARMS[arm]["vendor"] == "sarvam":
+        for f in sorted(glob.glob(str(rd / "*.json"))):
+            ents = (_load(Path(f)) or {}).get("diarized_transcript", {}).get("entries")
+            if ents:
+                return [{"start": e["start_time_seconds"], "end": e["end_time_seconds"], "speaker": f"spk{e['speaker_id']}"} for e in ents]
+        return []
+    out = []
+    for c in (_load(root / vid / "ingest.json") or {}).get("chunks", []):
+        for s in (_load(rd / f"diarize_chunk_{c['idx']:03d}.json", {}) or {}).get("segments") or []:
+            out.append({"start": s["start"] + c["start"], "end": s["end"] + c["start"], "speaker": f"c{c['idx']:02d}{s.get('speaker')}"})
+    return out
+
+
 def round_speakers(root: Path) -> dict:
     clips = {c["clip"]: c for c in _load(ANSWERS / "clips.json", [])}
     out = {}
     for arm in ARMS:
         voices, right, probed, none = {}, 0, 0, 0
+        raw_hits: dict = {}  # (episode, raw label) -> Counter of the reference speakers it landed on
         for vid in EPISODES:
             ep = _load(root / vid / "runs" / arm / "episode.json")
             if not ep:
                 continue
             names = {p["name"] for p in _load(ANSWERS / vid / "context.json", {}).get("people", [])}
             voices[vid] = len({s.get("speaker_id") for s in ep["transcript"]})
+            raw = raw_labels(root, vid, arm)
             for f in sorted(glob.glob(str(ANSWERS / "transcripts" / f"{vid}_*.json"))):
                 ref = _load(f)
                 if ref["clip"] not in clips:
@@ -217,14 +237,22 @@ def round_speakers(root: Path) -> dict:
                         continue
                     mm, ss = l["t"].split(":")
                     t0 = int(mm) * 60 + int(ss)
+                    lab = _person_at(raw, t0, t0 + 4)
+                    if lab is not None:
+                        raw_hits.setdefault((vid, lab), Counter())[l["speaker"]] += 1
                     got = _person_at(ep["transcript"], t0, t0 + 4)
                     if got is None:  # this AI wrote nothing at that moment: coverage, not attribution
                         none += 1
                         continue
                     probed += 1
                     right += int(got == l["speaker"])
+        raw_n = sum(sum(c.values()) for c in raw_hits.values())
+        raw_ok = sum(c.most_common(1)[0][1] for c in raw_hits.values())
         out[arm] = {"voices_heard": voices, "right_person": round(right / probed, 3) if probed else None,
-                    "lines_checked": probed, "lines_with_no_speech": none}
+                    "lines_checked": probed, "lines_with_no_speech": none,
+                    # the labels alone: each raw label counted as the person it is most often right about
+                    "raw_labels_right": round(raw_ok / raw_n, 3) if raw_n else None, "raw_lines_checked": raw_n,
+                    "raw_labels": len(raw_hits)}
     return out
 
 

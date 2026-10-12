@@ -401,7 +401,10 @@
    },
    "right_person": 0.636,
    "lines_checked": 176,
-   "lines_with_no_speech": 1
+   "lines_with_no_speech": 1,
+   "raw_labels_right": 0.716,
+   "raw_lines_checked": 176,
+   "raw_labels": 11
   },
   "openai": {
    "voices_heard": {
@@ -410,7 +413,10 @@
    },
    "right_person": 0.41,
    "lines_checked": 139,
-   "lines_with_no_speech": 38
+   "lines_with_no_speech": 38,
+   "raw_labels_right": 0.749,
+   "raw_lines_checked": 171,
+   "raw_labels": 41
   }
  },
  "room": {
