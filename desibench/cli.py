@@ -170,6 +170,10 @@ def main(argv=None):
         if name == "all":
             s.add_argument("--port", type=int, default=8000)
     sub.add_parser("score")
+    g = sub.add_parser("guess", help="play the 42 Who Am I rounds with any model")
+    g.add_argument("--model", required=True, help="an OpenAI, OPENAI_BASE_URL or claude-* model id")
+    g.add_argument("--round", action="append", help="just this round id; repeat for more (see answers/wants_to_guess.json)")
+    g.add_argument("--yes", action="store_true", help="don't ask before spending")
     sv = sub.add_parser("serve")
     sv.add_argument("--port", type=int, default=8000)
     sv.add_argument("--no-open", action="store_true")
@@ -187,6 +191,9 @@ def main(argv=None):
         run(eps, arms, a.yes, a.force)
     elif a.cmd == "score":
         score()
+    elif a.cmd == "guess":
+        from .guess import main as guess
+        guess(a.model, a.round, a.yes)
     elif a.cmd == "serve":
         serve(a.port, not a.no_open)
     elif a.cmd == "all":

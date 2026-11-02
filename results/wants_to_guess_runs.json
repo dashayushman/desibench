@@ -1,0 +1,1694 @@
+{
+ "_note": "Every guess and reasoning word for word, for 40 of the 42 rounds. ep1_p2 and fin_p3 are in the scores only.",
+ "runs": {
+  "ep1_p1": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too broad—could describe a moral crusader or a ‘sanskaari’ celebrity.",
+     "seconds": 6.5
+    },
+    {
+     "hint": 2,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Still ambiguous—suggests a morally outspoken figure who thrived despite critics.",
+     "seconds": 7.1
+    },
+    {
+     "hint": 3,
+     "guess": "Mother Teresa",
+     "correct": true,
+     "reasoning": "She was a go-to inspiration named by beauty-pageant contestants in the ’90s.",
+     "seconds": 4.4
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Mahatma Gandhi",
+     "correct": false,
+     "reasoning": "The original moral-high-ground influencer of India, so he fits a 'virtue signalling before it was cool' roast.",
+     "seconds": 5.0
+    },
+    {
+     "hint": 2,
+     "guess": "Lord Rama",
+     "correct": false,
+     "reasoning": "Slaying plus a moral-perfection brand points to Maryada Purushottam, whose demon haters prayed for boons to beat him, not Gandhi.",
+     "seconds": 14.3
+    },
+    {
+     "hint": 3,
+     "guess": "Mother Teresa",
+     "correct": true,
+     "reasoning": "90s pageant winners always named her as their inspiration, and she fits the virtue-signalling roast and the prayer pun.",
+     "seconds": 8.1
+    }
+   ]
+  },
+  "ep1_p3": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too broad to identify anyone yet; saving my guesses.",
+     "seconds": 4.6
+    },
+    {
+     "hint": 2,
+     "guess": "Osama bin Laden",
+     "correct": true,
+     "reasoning": "He hid for years and orchestrated terrorist attacks that killed thousands.",
+     "seconds": 8.5
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Vijay Mallya",
+     "correct": false,
+     "reasoning": "Hide and seek sounds like a roast of a famous fugitive who has been hiding from Indian banks.",
+     "seconds": 4.5
+    },
+    {
+     "hint": 2,
+     "guess": "Osama bin Laden",
+     "correct": true,
+     "reasoning": "World-famous hide and seek champion plus a huge body count points to the terrorist who hid for a decade.",
+     "seconds": 4.5
+    }
+   ]
+  },
+  "fin_p1": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Could be a rap lyric or a wheels-related roast—need another hint.",
+     "seconds": 5.8
+    },
+    {
+     "hint": 2,
+     "guess": "Stephen William Hawking",
+     "correct": true,
+     "reasoning": "Rolling and battery life point to his powered wheelchair.",
+     "seconds": 5.7
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Chamillionaire's 'Ridin'' lyric, but 'rolling' fits too many people, so I'm saving my guesses.",
+     "seconds": 5.8
+    },
+    {
+     "hint": 2,
+     "guess": "Stephen Hawking",
+     "correct": true,
+     "reasoning": "Rolling plus crucial battery life suggests a motorised wheelchair and a battery-powered voice.",
+     "seconds": 2.4
+    }
+   ]
+  },
+  "fin_p2": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "The mummy reference could fit several people; waiting for a sharper clue.",
+     "seconds": 6.4
+    },
+    {
+     "hint": 2,
+     "guess": "Zakir Khan",
+     "correct": false,
+     "reasoning": "'Haq Se Single' is the title of Zakir Khan’s stand-up comedy special.",
+     "seconds": 3.9
+    },
+    {
+     "hint": 3,
+     "guess": "Zakir Khan",
+     "correct": false,
+     "reasoning": "'Haq Se Single' is his stand-up special, making him the strongest match. The third hint is less specific.",
+     "seconds": 7.6
+    },
+    {
+     "hint": 4,
+     "guess": "Zakir Khan",
+     "correct": false,
+     "reasoning": "'Haq Se Single' is his stand-up special, and the party line fits his self-deprecating comic persona.",
+     "seconds": 5.6
+    },
+    {
+     "hint": 5,
+     "guess": null,
+     "correct": false,
+     "reasoning": "All three guesses have been used.",
+     "seconds": 2.0
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Rahul Gandhi",
+     "correct": true,
+     "reasoning": "Mummy jokes point to Sonia Gandhi's famous son, the eternal mamma's boy of Indian politics.",
+     "seconds": 7.7
+    }
+   ]
+  },
+  "s1e10_p1": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too broad—alcohol-related career trouble could fit several famous people.",
+     "seconds": 5.8
+    },
+    {
+     "hint": 2,
+     "guess": "Vinod Kambli",
+     "correct": false,
+     "reasoning": "Tentatively: he rose from humble beginnings to cricket stardom, then faced widely reported alcohol-related and financial struggles.",
+     "seconds": 12.5
+    },
+    {
+     "hint": 3,
+     "guess": "Vinod Kambli",
+     "correct": false,
+     "reasoning": "The sweep shot points to cricket, and his humble beginnings followed by alcohol-related and financial struggles fit the earlier hints.",
+     "seconds": 7.5
+    },
+    {
+     "hint": 4,
+     "guess": "Arvind Kejriwal",
+     "correct": true,
+     "reasoning": "The liquor-policy controversy, political setbacks, AAP’s broom symbol (‘sweep’), and its signature caps (‘topi’) connect all four clues.",
+     "seconds": 15.6
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Vinod Kambli",
+     "correct": false,
+     "reasoning": "A talented career famously derailed by drinking; a tentative early punt.",
+     "seconds": 9.0
+    },
+    {
+     "hint": 2,
+     "guess": "Yo Yo Honey Singh",
+     "correct": false,
+     "reasoning": "Hint 1 guess got no win, and this Drake rap line plus alcohol suggests the 'Chaar Bottle Vodka' rapper whose drinking derailed him.",
+     "seconds": 6.0
+    },
+    {
+     "hint": 3,
+     "guess": "Arvind Kejriwal",
+     "correct": true,
+     "reasoning": "Sweep means the AAP broom, alcohol means the Delhi liquor policy case, and he fell back after losing Delhi.",
+     "seconds": 3.9
+    }
+   ]
+  },
+  "s1e10_p2": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "A viral topless photo could fit many celebrities; need another hint.",
+     "seconds": 4.3
+    },
+    {
+     "hint": 2,
+     "guess": "Sourav Ganguly",
+     "correct": true,
+     "reasoning": "His shirtless Lord’s celebration is iconic; he’s a left-handed batter often linked with joining the right-wing BJP.",
+     "seconds": 7.8
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Ranveer Singh",
+     "correct": false,
+     "reasoning": "His bare-it-all photoshoot was the biggest viral undressed-picture moment in India, so it's worth an early shot.",
+     "seconds": 8.4
+    },
+    {
+     "hint": 2,
+     "guess": "Sourav Ganguly",
+     "correct": true,
+     "reasoning": "Shirt-off at the Lord's balcony, a left-handed batter, and from Left-ruled Bengal with the BJP always courting him.",
+     "seconds": 4.2
+    }
+   ]
+  },
+  "s1e10_p3": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Russian wala roast abhi vague hai—ek aur hint chahiye.",
+     "seconds": 5.7
+    },
+    {
+     "hint": 2,
+     "guess": "Viswanathan Anand",
+     "correct": true,
+     "reasoning": "Sedentary job se chess ka hint milta hai, aur Russian rivals wala pehla clue Anand se fit hota hai.",
+     "seconds": 13.2
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Thara Bhai Joginder",
+     "correct": false,
+     "reasoning": "The crude 'chaar chavanni' couplet sounds like desi Haryanvi-style influencer swagger, but this is a low-confidence guess.",
+     "seconds": 13.1
+    },
+    {
+     "hint": 2,
+     "guess": "Archana Puran Singh",
+     "correct": false,
+     "reasoning": "A job that is mostly sitting in a chair suggests the Kapil show's permanent laughing guest, though the first hint doesn't clearly fit.",
+     "seconds": 4.9
+    },
+    {
+     "hint": 3,
+     "guess": "Viswanathan Anand",
+     "correct": true,
+     "reasoning": "Check, ghode as knights, a job sitting at a board and beating Russians all point to India's chess legend.",
+     "seconds": 3.6
+    }
+   ]
+  },
+  "s1e11_p1": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "‘Gade murde’ could hint at digging up the past—too broad to identify someone yet.",
+     "seconds": 6.4
+    },
+    {
+     "hint": 2,
+     "guess": "Jitendra Kumar",
+     "correct": false,
+     "reasoning": "The secretary clue points to his role as Sachiv Ji in Panchayat, though the first hint is less clear.",
+     "seconds": 18.6
+    },
+    {
+     "hint": 3,
+     "guess": "Aatmaram Tukaram Bhide (Mandar Chandwadkar)",
+     "correct": false,
+     "reasoning": "The secretary clue and dialogue style suggest Gokuldham’s Bhide from Taarak Mehta Ka Ooltah Chashmah.",
+     "seconds": 21.8
+    },
+    {
+     "hint": 4,
+     "guess": "Jethalal Gada (Dilip Joshi)",
+     "correct": false,
+     "reasoning": "The cricketer hint likely plays on Samson/Samsung, fitting Jethalal’s word mix-ups and the quoted dialogues.",
+     "seconds": 31.8
+    },
+    {
+     "hint": 5,
+     "guess": null,
+     "correct": false,
+     "reasoning": "All three guesses have been used.",
+     "seconds": 3.6
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Sunny Deol",
+     "correct": false,
+     "reasoning": "Ukhaadne wala joke: he uproots handpumps in Gadar, not buried corpses.",
+     "seconds": 5.9
+    },
+    {
+     "hint": 2,
+     "guess": "Jay Shah",
+     "correct": false,
+     "reasoning": "Sarcastic 'worked hardest' to become secretary sounds like the nepotism roast of the BCCI secretary.",
+     "seconds": 3.6
+    },
+    {
+     "hint": 3,
+     "guess": "Shashi Tharoor",
+     "correct": true,
+     "reasoning": "Angrezon ki aulaad means his ultra-posh English; UN Under-Secretary-General fits the secretary hint.",
+     "seconds": 6.1
+    }
+   ]
+  },
+  "s1e11_p2": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Sounds like an ageless celebrity, but I need another hint.",
+     "seconds": 4.7
+    },
+    {
+     "hint": 2,
+     "guess": null,
+     "correct": false,
+     "reasoning": "An ageless star or vampire actor with an unappreciative partner—still too broad.",
+     "seconds": 10.0
+    },
+    {
+     "hint": 3,
+     "guess": "Jaya Bachchan",
+     "correct": false,
+     "reasoning": "The paps line sounds like sarcasm about her famously sharp exchanges with paparazzi.",
+     "seconds": 9.8
+    },
+    {
+     "hint": 4,
+     "guess": "Amitabh Bachchan",
+     "correct": false,
+     "reasoning": "He famously addresses the KBC computer as “Computer ji”; the shawty and paps hints point to Jaya.",
+     "seconds": 4.7
+    },
+    {
+     "hint": 5,
+     "guess": "Rekha",
+     "correct": true,
+     "reasoning": "Her namesake is Delhi CM Rekha Gupta; the earlier hints fit her ageless image and the Amitabh–Jaya connection.",
+     "seconds": 5.1
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Anil Kapoor",
+     "correct": false,
+     "reasoning": "A vampire never ages, and Bollywood's classic ageless-man joke is Anil Kapoor.",
+     "seconds": 6.0
+    },
+    {
+     "hint": 2,
+     "guess": "Drake",
+     "correct": false,
+     "reasoning": "Vampire plus rapper slang like 'shawty' points to a Drake-ula pun; Anil Kapoor no longer fits.",
+     "seconds": 10.7
+    },
+    {
+     "hint": 3,
+     "guess": "Jaya Bachchan",
+     "correct": false,
+     "reasoning": "The sarcastic line fits her famous scolding of paparazzi, and 'shawty' fits her short height and scowl at everything.",
+     "seconds": 3.4
+    },
+    {
+     "hint": 4,
+     "guess": null,
+     "correct": false,
+     "reasoning": null,
+     "seconds": 0
+    },
+    {
+     "hint": 5,
+     "guess": null,
+     "correct": false,
+     "reasoning": null,
+     "seconds": 0
+    }
+   ]
+  },
+  "s1e11_p3": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": "Vikas Jayaram Fhatak",
+     "correct": false,
+     "reasoning": "Pakistan-directed gaaliyan Hindustani Bhau ki signature style hain.",
+     "seconds": 8.0
+    },
+    {
+     "hint": 2,
+     "guess": "Arnab Goswami",
+     "correct": false,
+     "reasoning": "The 'noise pollution' clue points to his famously loud, confrontational TV debates.",
+     "seconds": 12.0
+    },
+    {
+     "hint": 3,
+     "guess": "Sunny Deol",
+     "correct": true,
+     "reasoning": "Calendars mean dates—his iconic 'Tareekh pe tareekh!' dialogue from Damini clinches it. His booming delivery and Gadar persona fit the earlier hints.",
+     "seconds": 9.1
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Sunny Deol",
+     "correct": true,
+     "reasoning": "Rough hint about someone famous for thrashing Pakistan: Gadar's handpump-uprooting Tara Singh is my first pick, low confidence.",
+     "seconds": 6.5
+    }
+   ]
+  },
+  "s1e12_p1": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Could be a cricket pun, but it’s too broad to identify someone yet.",
+     "seconds": 5.2
+    },
+    {
+     "hint": 2,
+     "guess": "Hardik Pandya",
+     "correct": false,
+     "reasoning": "“Boundaries” suggests cricket, and “Hardik” sounds like a sexual double entendre.",
+     "seconds": 8.8
+    },
+    {
+     "hint": 3,
+     "guess": null,
+     "correct": false,
+     "reasoning": "“Dhurandhar” could suggest a spy or a national ace; I need another clue to pin down the name pun.",
+     "seconds": 30.0
+    },
+    {
+     "hint": 4,
+     "guess": "Vladimir Putin",
+     "correct": true,
+     "reasoning": "An ex-KGB spy who violated Ukraine’s borders and went to war with comedian-turned-president Zelenskyy. “Putin” also sounds like “put in.”",
+     "seconds": 6.5
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Cyril Radcliffe",
+     "correct": false,
+     "reasoning": "Boundaries pun: he drew the India-Pakistan border in a hurry, and it went badly.",
+     "seconds": 5.8
+    },
+    {
+     "hint": 2,
+     "guess": "Hardik Pandya",
+     "correct": false,
+     "reasoning": "'Hard' in the name sets up the joke, and boundaries points to a cricketer who oversteps on chat shows.",
+     "seconds": 5.7
+    },
+    {
+     "hint": 3,
+     "guess": "Ajit Doval",
+     "correct": false,
+     "reasoning": "India's real-life Dhurandhar spy, who crossed borders undercover, and 'Doval' sounds like 'do well'.",
+     "seconds": 8.6
+    },
+    {
+     "hint": 4,
+     "guess": null,
+     "correct": false,
+     "reasoning": null,
+     "seconds": 0
+    },
+    {
+     "hint": 5,
+     "guess": null,
+     "correct": false,
+     "reasoning": null,
+     "seconds": 0
+    }
+   ]
+  },
+  "s1e12_p2": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Could be a film reference or a ‘Black Rock’ pun—need another hint.",
+     "seconds": 6.4
+    },
+    {
+     "hint": 2,
+     "guess": "Dwayne Johnson",
+     "correct": true,
+     "reasoning": "‘Patthar’ points to The Rock, and ‘I hate diesel’ hints at his feud with Vin Diesel.",
+     "seconds": 4.4
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Dwayne Johnson",
+     "correct": true,
+     "reasoning": "Kaala patthar literally means dark stone, so it could be a pun on The Rock; low confidence.",
+     "seconds": 9.9
+    }
+   ]
+  },
+  "s1e12_p3": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": "Ratan Tata",
+     "correct": true,
+     "reasoning": "'Bye bye' is 'ta-ta'—a pun on Tata.",
+     "seconds": 7.0
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Ratan Tata",
+     "correct": true,
+     "reasoning": "Bye bye means 'ta-ta', so this looks like a pun on Tata.",
+     "seconds": 3.9
+    }
+   ]
+  },
+  "s1e2_p1": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Corporate structure could mean business—or organized crime; waiting for a sharper clue.",
+     "seconds": 7.2
+    },
+    {
+     "hint": 2,
+     "guess": "Subrata Roy",
+     "correct": false,
+     "reasoning": "Sahara fits the informal-finance clue, and his sons’ lavish weddings famously drew Bollywood celebrities.",
+     "seconds": 20.2
+    },
+    {
+     "hint": 3,
+     "guess": "Dawood Ibrahim",
+     "correct": true,
+     "reasoning": "My revised guess: D-Company fits the corporate-style underworld clue, and his protégé Chhota Rajan eventually became a rival.",
+     "seconds": 17.1
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Dawood Ibrahim",
+     "correct": true,
+     "reasoning": "Roast of D-Company, which ran organised crime like a corporation, though this is an early guess.",
+     "seconds": 5.9
+    }
+   ]
+  },
+  "s1e2_p2": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Could be an equality advocate—or a roast about employing lots of women; need another hint.",
+     "seconds": 6.8
+    },
+    {
+     "hint": 2,
+     "guess": "Raj Kundra",
+     "correct": true,
+     "reasoning": "The female-employment innuendo and black-money jab sound like a roast of Raj Kundra.",
+     "seconds": 8.7
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too broad: could be Ekta Kapoor, Vijay Mallya or a roast of a Bollywood star, so I'll save my guesses.",
+     "seconds": 6.1
+    },
+    {
+     "hint": 2,
+     "guess": "Vijay Mallya",
+     "correct": false,
+     "reasoning": "Kingfisher calendar models and air hostesses as 'female employment', plus the dodgy-money reputation.",
+     "seconds": 4.9
+    },
+    {
+     "hint": 3,
+     "guess": "Raj Kundra",
+     "correct": true,
+     "reasoning": "Adult-content app case fits 'female employment' and boys hostels, and he has faced money-laundering allegations.",
+     "seconds": 2.7
+    }
+   ]
+  },
+  "s1e2_p3": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "That fits several celebrities—waiting for a more specific hint.",
+     "seconds": 6.8
+    },
+    {
+     "hint": 2,
+     "guess": null,
+     "correct": false,
+     "reasoning": "The British-actor clue narrows it down, but I need another hint to connect it with “green flag.”",
+     "seconds": 17.5
+    },
+    {
+     "hint": 3,
+     "guess": "Muhammad Ali Jinnah",
+     "correct": true,
+     "reasoning": "British actor Christopher Lee portrayed him in Jinnah; Pakistan’s green flag and the India–Pakistan Asia Cup rivalry fit the other clues.",
+     "seconds": 13.8
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Vicky Kaushal",
+     "correct": false,
+     "reasoning": "Internet's favourite 'green flag' husband, the pun points to him first.",
+     "seconds": 4.5
+    },
+    {
+     "hint": 2,
+     "guess": "Muhammad Ali Jinnah",
+     "correct": true,
+     "reasoning": "Green flag means Pakistan's flag, and Christopher Lee, a British actor, played him in the biopic Jinnah.",
+     "seconds": 5.2
+    }
+   ]
+  },
+  "s1e3_p1": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Could be a veteran star supporting the family, but this hint is too broad.",
+     "seconds": 7.7
+    },
+    {
+     "hint": 2,
+     "guess": null,
+     "correct": false,
+     "reasoning": "The clues suggest an older fitness or wellness icon, but I need a more distinctive hint.",
+     "seconds": 17.1
+    },
+    {
+     "hint": 3,
+     "guess": "Anil Kapoor",
+     "correct": false,
+     "reasoning": "The third hint directly points to his film Gharwali Baharwali, while the elder breadwinner clue also fits.",
+     "seconds": 28.6
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Amitabh Bachchan",
+     "correct": true,
+     "reasoning": "In his 80s and still the family's top earner, a classic roast of Abhishek's career.",
+     "seconds": 3.0
+    }
+   ]
+  },
+  "s1e3_p2": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too many famous dads fit—saving a guess for a sharper hint.",
+     "seconds": 6.6
+    },
+    {
+     "hint": 2,
+     "guess": "Donald Trump",
+     "correct": true,
+     "reasoning": "He was inducted into the WWE Hall of Fame in 2013, and his remarks about daughter Ivanka fit the first hint.",
+     "seconds": 4.6
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Mahesh Bhatt",
+     "correct": false,
+     "reasoning": "Triple 'really' sounds like a roast of his famously over-the-top closeness with daughter Pooja Bhatt.",
+     "seconds": 5.5
+    },
+    {
+     "hint": 2,
+     "guess": "The Great Khali",
+     "correct": false,
+     "reasoning": "An Indian show's WWE Hall of Famer points to Dalip Singh Rana, inducted in 2021, so I drop Bhatt.",
+     "seconds": 3.4
+    },
+    {
+     "hint": 3,
+     "guess": "Donald Trump",
+     "correct": true,
+     "reasoning": "He's in the WWE Hall of Fame (2013), dotes on Ivanka, and fights with neighbours Mexico and Canada.",
+     "seconds": 2.8
+    }
+   ]
+  },
+  "s1e3_p3": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too broad to identify someone; saving my guesses for sharper hints.",
+     "seconds": 3.5
+    },
+    {
+     "hint": 2,
+     "guess": null,
+     "correct": false,
+     "reasoning": "“Flow” suggests a rapper, but the minority clue still fits several people. Waiting for a sharper hint.",
+     "seconds": 8.5
+    },
+    {
+     "hint": 3,
+     "guess": "Eminem",
+     "correct": true,
+     "reasoning": "A white rapper in a predominantly Black genre, known for his flow and battle-rap background.",
+     "seconds": 2.6
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too broad to pin on anyone yet, so I'll save my three guesses for a sharper hint.",
+     "seconds": 5.1
+    },
+    {
+     "hint": 2,
+     "guess": "Hard Kaur",
+     "correct": false,
+     "reasoning": "'Flow' plus a period pun points to a woman in rap, a minority in that field, and Hard Kaur is India's best-known female rapper.",
+     "seconds": 4.0
+    },
+    {
+     "hint": 3,
+     "guess": "Dee MC",
+     "correct": false,
+     "reasoning": "The game is still going, so Hard Kaur seems wrong, and rap battles fit Dee MC, a Mumbai female rapper from the battle and cypher scene.",
+     "seconds": 4.7
+    },
+    {
+     "hint": 4,
+     "guess": "Eminem",
+     "correct": true,
+     "reasoning": "He's a white rapper, so a minority in hip-hop, with a heavy flow and 8 Mile rap battles, and his best friend and mentor is Dr. Dre.",
+     "seconds": 4.2
+    }
+   ]
+  },
+  "s1e4_p1": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Could be a movie star or a former bus conductor—need another hint.",
+     "seconds": 5.3
+    },
+    {
+     "hint": 2,
+     "guess": "MS Dhoni",
+     "correct": true,
+     "reasoning": "He was a railway ticket examiner, and people speculate every year that it will be his last IPL season.",
+     "seconds": 4.4
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "MS Dhoni",
+     "correct": true,
+     "reasoning": "He famously worked as a railway ticket collector at Kharagpur before cricket, so ticketless travellers would annoy him.",
+     "seconds": 3.8
+    }
+   ]
+  },
+  "s1e4_p2": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": "Amitabh Bachchan",
+     "correct": false,
+     "reasoning": "The hint riffs on his iconic 'I can talk English, I can walk English' dialogue from Namak Halaal.",
+     "seconds": 4.3
+    },
+    {
+     "hint": 2,
+     "guess": "Amitabh Bachchan",
+     "correct": false,
+     "reasoning": "Hint 1 echoes his famous dialogue, but Hint 2 doesn’t clearly fit. Can you share another hint?",
+     "seconds": 17.3
+    },
+    {
+     "hint": 3,
+     "guess": "Jawaharlal Nehru",
+     "correct": true,
+     "reasoning": "His English education and Anglicised lifestyle fit Hint 1; his close relationship with Edwina Mountbatten suggests Hint 2; and his 'Chacha Nehru' image and association with Children’s Day strongly fit Hint 3.",
+     "seconds": 7.4
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Amitabh Bachchan",
+     "correct": false,
+     "reasoning": "Echoes his Namak Halaal line 'I can talk English, I can walk English'.",
+     "seconds": 5.2
+    },
+    {
+     "hint": 2,
+     "guess": "Shashi Tharoor",
+     "correct": false,
+     "reasoning": "Famous for his polished English and his popularity with women, so this fits better than Bachchan.",
+     "seconds": 2.9
+    },
+    {
+     "hint": 3,
+     "guess": "Jawaharlal Nehru",
+     "correct": true,
+     "reasoning": "Chacha Nehru loved kids, was Harrow and Cambridge English, and Edwina Mountbatten explains the white chicks.",
+     "seconds": 2.8
+    }
+   ]
+  },
+  "s1e4_p3": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": "Anurag Kashyap",
+     "correct": true,
+     "reasoning": "‘Kal ki’ sounds like Kalki Koechlin, his ex-wife.",
+     "seconds": 6.4
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Anurag Kashyap",
+     "correct": true,
+     "reasoning": "'Kal ki chinta' pun on Kalki: her ex-husband wouldn't worry about Kalki Koechlin anymore.",
+     "seconds": 6.7
+    }
+   ]
+  },
+  "s1e5_p1": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too generic to identify anyone—saving my guesses for stronger hints.",
+     "seconds": 3.2
+    },
+    {
+     "hint": 2,
+     "guess": "A beach towel",
+     "correct": false,
+     "reasoning": "It comes along to the beach and is made of woven threads—though I’m not certain yet.",
+     "seconds": 7.6
+    },
+    {
+     "hint": 3,
+     "guess": "Mahatma Gandhi",
+     "correct": true,
+     "reasoning": "He marched to the coast at Dandi, championed spinning cotton, and famously defied British rule by making salt—the original ‘Salt Bae.’",
+     "seconds": 6.1
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too generic so far; could be a dating-profile joke about anyone, so saving my guesses.",
+     "seconds": 4.6
+    },
+    {
+     "hint": 2,
+     "guess": "Mahatma Gandhi",
+     "correct": true,
+     "reasoning": "Long beach walk is the Dandi March, and high thread count is the charkha and khadi.",
+     "seconds": 3.5
+    }
+   ]
+  },
+  "s1e5_p2": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": "Virat Kohli",
+     "correct": true,
+     "reasoning": "That expletive is practically his signature in on-field memes.",
+     "seconds": 5.3
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Virat Kohli",
+     "correct": true,
+     "reasoning": "Hint is just a gaali, and Kohli's on-field 'BC' lip-reads are nationally famous.",
+     "seconds": 4.8
+    }
+   ]
+  },
+  "s1e5_p3": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Could refer to tattoos or injections—too broad to identify someone yet.",
+     "seconds": 4.5
+    },
+    {
+     "hint": 2,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Needles could suggest tattoos, and striped shirts could suggest prison uniforms or referees. Another hint would help.",
+     "seconds": 17.8
+    },
+    {
+     "hint": 3,
+     "guess": "Sanjay Dutt",
+     "correct": true,
+     "reasoning": "Needles hint at his tattoos, striped shirts at his prison history, and ‘Maanyata’ is a pun on his wife’s name—she lives in Dubai.",
+     "seconds": 4.8
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Needles could mean tattoos, vaccines or botox, too vague to spend a guess, passing for now.",
+     "seconds": 6.4
+    },
+    {
+     "hint": 2,
+     "guess": "Sanjay Dutt",
+     "correct": true,
+     "reasoning": "Needles point to his drug addiction past, and the striped shirt is a prison uniform from his jail time.",
+     "seconds": 4.1
+    }
+   ]
+  },
+  "s1e6_p1": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": "Ajay Devgn",
+     "correct": true,
+     "reasoning": "He dropped the 'a' from Devgan—vowel se kya dushmani!",
+     "seconds": 8.8
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Could be anyone with a vowel-less name or initials like SRK or MKBHD, so I'm saving my guesses for a stronger hint.",
+     "seconds": 9.9
+    },
+    {
+     "hint": 2,
+     "guess": "Ajay Devgn",
+     "correct": true,
+     "reasoning": "He dropped the vowel from Devgan to spell it Devgn, and his famously deadpan, same-in-every-film face fits a man who could lose his own lookalike contest.",
+     "seconds": 5.4
+    }
+   ]
+  },
+  "s1e6_p2": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": "Ben Stokes",
+     "correct": false,
+     "reasoning": "Unka naam ek mashhoor Hindi gaali ka sound-alike meme hai.",
+     "seconds": 9.0
+    },
+    {
+     "hint": 2,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Yeh kisi former CM ya satta kho chuke neta ka hint lagta hai, par naam abhi clear nahi hai.",
+     "seconds": 11.3
+    },
+    {
+     "hint": 3,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Sarkari pad, samman ya privilege milne aur chhinne ka ishara hai; abhi kisi ek naam par confidence nahi hai.",
+     "seconds": 27.0
+    },
+    {
+     "hint": 4,
+     "guess": "Ranveer Allahbadia",
+     "correct": true,
+     "reasoning": "‘Raj’ shayad Raj Shamani ka hint hai; government award, legal trouble aur spirituality waala angle Ranveer se match karta hai.",
+     "seconds": 63.0
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Niki Lauda",
+     "correct": false,
+     "reasoning": "Gaali pun: uska surname hi Hindi gaali jaisa sunai deta hai, aur burn scars wala chehra 'shakal' fit karta hai.",
+     "seconds": 9.0
+    },
+    {
+     "hint": 2,
+     "guess": "Uddhav Thackeray",
+     "correct": false,
+     "reasoning": "Maharashtra haath se gaya, aur 'Raj' ka pun Raj Thackeray ya sattaa dono pe baithta hai; Lauda wala guess chhod raha hoon.",
+     "seconds": 18.2
+    },
+    {
+     "hint": 3,
+     "guess": "Gali Janardhana Reddy",
+     "correct": false,
+     "reasoning": "'Gaali' naam ka pun, Bellary ka 'rajya' haath se gaya, aur sarkar ne mining leases di bhi aur chheen bhi li.",
+     "seconds": 8.6
+    },
+    {
+     "hint": 4,
+     "guess": null,
+     "correct": false,
+     "reasoning": null,
+     "seconds": 0
+    },
+    {
+     "hint": 5,
+     "guess": null,
+     "correct": false,
+     "reasoning": null,
+     "seconds": 0
+    }
+   ]
+  },
+  "s1e6_p3": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "That alternate-career joke is too broad; I need another hint.",
+     "seconds": 7.4
+    },
+    {
+     "hint": 2,
+     "guess": "Bhushan Kumar",
+     "correct": false,
+     "reasoning": "“Tea” + “series” suggests T-Series, which he heads. This is tentative—I can’t confidently connect the gynaecologist hint yet.",
+     "seconds": 24.8
+    },
+    {
+     "hint": 3,
+     "guess": "Yo Yo Honey Singh",
+     "correct": true,
+     "reasoning": "T-Series fits his music career, and “tripping balls” suggests a drug-related clue. This is tentative; I haven’t connected the gynaecologist hint confidently.",
+     "seconds": 19.2
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Jasprit Bumrah",
+     "correct": false,
+     "reasoning": "Gynaecologists handle deliveries, so this is likely a pun on a fast bowler famous for his deliveries.",
+     "seconds": 5.3
+    },
+    {
+     "hint": 2,
+     "guess": "Bhushan Kumar",
+     "correct": false,
+     "reasoning": "Tea followed by a series is a pun on T-Series, the music label he runs.",
+     "seconds": 4.7
+    },
+    {
+     "hint": 3,
+     "guess": "S. Sreesanth",
+     "correct": false,
+     "reasoning": "Deliveries, tea before a series and tripping balls point to an unhinged fast bowler, and he is the most famously wild one.",
+     "seconds": 9.0
+    },
+    {
+     "hint": 4,
+     "guess": null,
+     "correct": false,
+     "reasoning": null,
+     "seconds": 0
+    },
+    {
+     "hint": 5,
+     "guess": null,
+     "correct": false,
+     "reasoning": null,
+     "seconds": 0
+    }
+   ]
+  },
+  "s1e7_p1": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "This delusion joke fits too many celebrities; waiting for a sharper clue.",
+     "seconds": 4.3
+    },
+    {
+     "hint": 2,
+     "guess": "Kangana Ranaut",
+     "correct": true,
+     "reasoning": "The airport-security clue suggests her widely reported CISF slap incident.",
+     "seconds": 7.0
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Could fit many self-belief celebs; saving my guesses until a sharper hint.",
+     "seconds": 5.0
+    },
+    {
+     "hint": 2,
+     "guess": "Urvashi Rautela",
+     "correct": false,
+     "reasoning": "Queen of delulu claims, and her phone and luggage keep going missing at airports.",
+     "seconds": 3.9
+    },
+    {
+     "hint": 3,
+     "guess": "Kangana Ranaut",
+     "correct": true,
+     "reasoning": "A CISF constable slapped her at Chandigarh airport, so airport security fits, and delulu suits her bold claims.",
+     "seconds": 6.5
+    }
+   ]
+  },
+  "s1e7_p2": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too broad to identify anyone yet; waiting for a more specific hint.",
+     "seconds": 3.5
+    },
+    {
+     "hint": 2,
+     "guess": "Sri Sri Ravi Shankar",
+     "correct": false,
+     "reasoning": "He is a spiritual leader whose title repeats “Sri,” fitting the clue about saying his name more than once.",
+     "seconds": 8.6
+    },
+    {
+     "hint": 3,
+     "guess": "Radhe Maa",
+     "correct": false,
+     "reasoning": "Her name evokes the repeated chant “Radhe Radhe.” This is tentative—I’m less certain about the don comparison.",
+     "seconds": 31.5
+    },
+    {
+     "hint": 4,
+     "guess": "Jesus Christ",
+     "correct": false,
+     "reasoning": "In Revelation 3:20, Jesus says, “I stand at the door and knock.” This is tentative, since the other clues don’t fit as clearly.",
+     "seconds": 36.3
+    },
+    {
+     "hint": 5,
+     "guess": null,
+     "correct": false,
+     "reasoning": "All three guesses have been used.",
+     "seconds": 3.1
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too broad to spend a guess, so I'll wait for a sharper hint.",
+     "seconds": 3.3
+    },
+    {
+     "hint": 2,
+     "guess": "Sri Sri Ravi Shankar",
+     "correct": false,
+     "reasoning": "A spiritual figure whose name starts with a double 'Sri Sri', so you can't say it just once.",
+     "seconds": 1.8
+    },
+    {
+     "hint": 3,
+     "guess": "Gurmeet Ram Rahim Singh",
+     "correct": false,
+     "reasoning": "If Sri Sri was wrong, a flashy, convicted godman who gets the don comparison fits best, and his name packs in Ram and Rahim.",
+     "seconds": 13.5
+    },
+    {
+     "hint": 4,
+     "guess": "Yogi Adityanath",
+     "correct": false,
+     "reasoning": "A mahant-turned-CM, 'the one who knocks' sounds like his 'thok denge' line, there's the don-like tough image, and crowds chant 'Yogi Yogi'.",
+     "seconds": 9.7
+    },
+    {
+     "hint": 5,
+     "guess": null,
+     "correct": false,
+     "reasoning": null,
+     "seconds": 0
+    }
+   ]
+  },
+  "s1e7_p3": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Could mean retirement or giving up—too broad to identify someone yet.",
+     "seconds": 5.3
+    },
+    {
+     "hint": 2,
+     "guess": "Salman Khan",
+     "correct": true,
+     "reasoning": "The acting-effort roast fits, and Bollywood’s 'Bhai' would be very busy on Raksha Bandhan.",
+     "seconds": 10.9
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too vague to place anyone yet, so I'm saving my guesses for a sharper hint.",
+     "seconds": 4.2
+    },
+    {
+     "hint": 2,
+     "guess": "Salman Khan",
+     "correct": true,
+     "reasoning": "India's 'Bhai' would be booked solid on Raksha Bandhan, and the roast is that he stopped trying at acting.",
+     "seconds": 4.4
+    }
+   ]
+  },
+  "s1e8_p1": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "The nepotism-and-backbone pun isn’t specific enough yet.",
+     "seconds": 10.3
+    },
+    {
+     "hint": 2,
+     "guess": "Rahul Gandhi",
+     "correct": false,
+     "reasoning": "A political nepo kid whose mother, Sonia Gandhi, was born in Italy.",
+     "seconds": 6.2
+    },
+    {
+     "hint": 3,
+     "guess": "Rahul Gandhi",
+     "correct": false,
+     "reasoning": "His political dynasty, Italian-born mother Sonia, and unexpected SoBo fandom fit all three clues.",
+     "seconds": 8.6
+    },
+    {
+     "hint": 4,
+     "guess": "Zohran Mamdani",
+     "correct": true,
+     "reasoning": "The Empire State clue points to New York’s Mamdani, son of Indian-born filmmaker Mira Nair.",
+     "seconds": 19.7
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too many outspoken star kids fit this; saving my three guesses for a sharper hint.",
+     "seconds": 7.0
+    },
+    {
+     "hint": 2,
+     "guess": "Rahul Gandhi",
+     "correct": false,
+     "reasoning": "Italian-born mother Sonia Gandhi plus India's most famous political nepo kid points straight to him.",
+     "seconds": 2.3
+    },
+    {
+     "hint": 3,
+     "guess": "Priyanka Gandhi",
+     "correct": false,
+     "reasoning": "Game is still on, so Rahul was likely wrong; the Italian-born mother clue fits his sister too, though South Bombay is a weak fit.",
+     "seconds": 8.0
+    },
+    {
+     "hint": 4,
+     "guess": "Zohran Mamdani",
+     "correct": true,
+     "reasoning": "Empire State means New York: son of Indian-born filmmaker Mira Nair, a nepo kid turned NYC politician with desi fans.",
+     "seconds": 3.0
+    }
+   ]
+  },
+  "s1e8_p2": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too broad to identify someone; saving my guesses for a stronger hint.",
+     "seconds": 2.7
+    },
+    {
+     "hint": 2,
+     "guess": null,
+     "correct": false,
+     "reasoning": "This may reference No Nut November, suggesting an adult-film performer. Several died in early 2024, so another hint would help narrow it down.",
+     "seconds": 48.9
+    },
+    {
+     "hint": 3,
+     "guess": "Poonam Pandey",
+     "correct": true,
+     "reasoning": "She faked her death in February 2024 for a cervical-cancer awareness campaign, provoking public backlash. The November clue likely references No Nut November and her adult content.",
+     "seconds": 7.1
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Too broad: Pankaj Udhas, Ameen Sayani, even Poonam Pandey's fake death fit, so I'll save my guesses.",
+     "seconds": 4.4
+    },
+    {
+     "hint": 2,
+     "guess": "Alexei Navalny",
+     "correct": false,
+     "reasoning": "Pun attempt: 'Nov' plus a slow 'all-ny' sounds like Navalny, who died in February 2024.",
+     "seconds": 12.4
+    },
+    {
+     "hint": 3,
+     "guess": "Poonam Pandey",
+     "correct": true,
+     "reasoning": "She faked her death in February 2024 for cervical cancer awareness, and people were furious.",
+     "seconds": 1.7
+    }
+   ]
+  },
+  "s1e8_p3": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Sounds like a sports-court pun, but it could fit several athletes.",
+     "seconds": 5.4
+    },
+    {
+     "hint": 2,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Possibly a racket-sport player, but I need the last hint to decode the migrating bird.",
+     "seconds": 17.9
+    },
+    {
+     "hint": 3,
+     "guess": "Deepika Padukone",
+     "correct": true,
+     "reasoning": "Her badminton-star father, Kingfisher/Mallya connection, and co-star Vin Diesel fit the three clues.",
+     "seconds": 6.7
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Sania Mirza",
+     "correct": false,
+     "reasoning": "Court pun: a father taking his little kid to a tennis court, and her father coached her.",
+     "seconds": 5.3
+    },
+    {
+     "hint": 2,
+     "guess": "Deepika Padukone",
+     "correct": true,
+     "reasoning": "Father Prakash Padukone took her to the badminton court; the Kingfisher bird that left India points to her ex Siddharth Mallya.",
+     "seconds": 4.8
+    }
+   ]
+  },
+  "s1e9_p1": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": "Elon Musk",
+     "correct": true,
+     "reasoning": "He loves the letter X so much, he renamed Twitter after it.",
+     "seconds": 7.1
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Elon Musk",
+     "correct": true,
+     "reasoning": "X sounds like the platform he bought and renamed, so he would be the one in love with it.",
+     "seconds": 5.0
+    }
+   ]
+  },
+  "s1e9_p2": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": "Salman Khan",
+     "correct": false,
+     "reasoning": "This is his iconic dialogue from Kick.",
+     "seconds": 4.3
+    },
+    {
+     "hint": 2,
+     "guess": "Manoj Bajpayee",
+     "correct": false,
+     "reasoning": "Hint 2 points to his iconic song sequence in Satya, though Hint 1 suggested Salman Khan.",
+     "seconds": 20.4
+    },
+    {
+     "hint": 3,
+     "guess": "Christopher Nolan",
+     "correct": true,
+     "reasoning": "His films are famously mind-bending, Inception explores dreams, and his Dark Knight trilogy explains the bats.",
+     "seconds": 17.5
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Salman Khan",
+     "correct": false,
+     "reasoning": "Sounds like a filmy Bhai dialogue: he enters hearts, but nobody understands him.",
+     "seconds": 5.4
+    },
+    {
+     "hint": 2,
+     "guess": "Gulzar",
+     "correct": false,
+     "reasoning": "He wrote 'Sapne Mein Milti Hai' for Satya, and his poetry touches the heart but goes over the head.",
+     "seconds": 4.9
+    },
+    {
+     "hint": 3,
+     "guess": "Christopher Nolan",
+     "correct": true,
+     "reasoning": "Bats means Batman, sapne means Inception's dreams, and his films hit the heart but nobody understands them.",
+     "seconds": 3.0
+    }
+   ]
+  },
+  "s1e9_p3": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "An expensive work suit fits too many famous people.",
+     "seconds": 4.1
+    },
+    {
+     "hint": 2,
+     "guess": "Neil Armstrong",
+     "correct": true,
+     "reasoning": "He wore an expensive spacesuit and famously took “one small step” on the Moon.",
+     "seconds": 3.4
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Could be a lawyer, Modi's suit or an astronaut's spacesuit, too broad to spend a guess.",
+     "seconds": 4.6
+    },
+    {
+     "hint": 2,
+     "guess": "Neil Armstrong",
+     "correct": true,
+     "reasoning": "Expensive work suit is a spacesuit, and 'small steps' points to 'one small step for man'.",
+     "seconds": 1.6
+    }
+   ]
+  },
+  "s2e1_p1": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": "Humpty Dumpty",
+     "correct": true,
+     "reasoning": "He famously sat on a wall—the ultimate fence-sitter.",
+     "seconds": 9.0
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Humpty Dumpty",
+     "correct": true,
+     "reasoning": "A nursery rhyme character famous for sitting on a wall, the closest fit for a 'fence sitter'.",
+     "seconds": 4.0
+    }
+   ]
+  },
+  "s2e1_p2": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": null,
+     "correct": false,
+     "reasoning": "Night duty could fit Batman, Dracula, or a watchman—need another hint.",
+     "seconds": 5.5
+    },
+    {
+     "hint": 2,
+     "guess": "Bruce Wayne (Batman)",
+     "correct": true,
+     "reasoning": "Night duty points to Batman; the second hint sounds like a cheeky remark to Alfred, his butler and father figure.",
+     "seconds": 7.1
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Batman",
+     "correct": true,
+     "reasoning": "Night duty fits Gotham's nocturnal vigilante, though this is an early punt.",
+     "seconds": 6.5
+    }
+   ]
+  },
+  "s2e1_p3": {
+   "chatgpt": [
+    {
+     "hint": 1,
+     "guess": "Cole Sear",
+     "correct": false,
+     "reasoning": "His iconic line in The Sixth Sense is “I see dead people.”",
+     "seconds": 5.6
+    },
+    {
+     "hint": 2,
+     "guess": "Stack Moore from Sinners",
+     "correct": false,
+     "reasoning": "He encounters the undead and calls Mary, his former girlfriend, a “cracker.”",
+     "seconds": 55.2
+    },
+    {
+     "hint": 3,
+     "guess": "Dr. Gregory House",
+     "correct": false,
+     "reasoning": "He hallucinates dead colleagues and recommends prostitutes as a fix for emotional problems. I’m less certain about the girlfriend clue.",
+     "seconds": 80.0
+    },
+    {
+     "hint": 4,
+     "guess": null,
+     "correct": false,
+     "reasoning": null,
+     "seconds": 2.9
+    },
+    {
+     "hint": 5,
+     "guess": null,
+     "correct": false,
+     "reasoning": null,
+     "seconds": 1.9
+    }
+   ],
+   "claude": [
+    {
+     "hint": 1,
+     "guess": "Cole Sear",
+     "correct": false,
+     "reasoning": "'I see dead people' is the famous line from the boy in The Sixth Sense.",
+     "seconds": 3.7
+    },
+    {
+     "hint": 2,
+     "guess": "Munna Bhai (Murli Prasad Sharma)",
+     "correct": true,
+     "reasoning": "He sees dead Gandhi in Lage Raho, and his love Dr. Suman in MBBS is nicknamed 'Chinki'.",
+     "seconds": 14.5
+    }
+   ]
+  }
+ }
+}

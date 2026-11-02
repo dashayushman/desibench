@@ -51,3 +51,9 @@ quiz show. Follow these steps in order. The user only has to give you two API ke
 - `desibench/score.py`: all the scoring, deterministic, no model calls.
 - `work/<episode>/runs/<ai>/`: everything a run produces (`episode.json` is the summary the results page reads).
 - `viewer/`: the results page, plain HTML and JS.
+
+## AI Wants to Guess
+
+If the user wants to replay the 42 blindfold rounds instead of the full benchmark, they need only one key, and no video downloads.
+`python -m desibench guess --model <model id>` plays every round once and prints how it compares. It asks before spending;
+try `--round s2e1_p1` first. A round already played in `work/guess/` is never replayed. Don't delete those files to re-roll a score.

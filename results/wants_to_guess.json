@@ -1,0 +1,1375 @@
+{
+ "_note": "My run: GPT-6 Astra at high effort and Claude Opus 5.5, once each.",
+ "rounds": [
+  {
+   "id": "ep1_p1",
+   "episode": "s1e1",
+   "video_id": "_3UvCy7FMTg",
+   "person": "Mother Teresa",
+   "category": "global/India icon",
+   "hints_shown": 5,
+   "slug": "mother-teresa",
+   "comedian": "Jose Covaco",
+   "comedian_solved_at": 5,
+   "comedian_wrong": 2,
+   "chatgpt": {
+    "solved_at": 3,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 18.0,
+    "turns": 3,
+    "tokens": 1405,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 3,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 27.4,
+    "turns": 3,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "chatgpt"
+  },
+  {
+   "id": "ep1_p2",
+   "episode": "s1e1",
+   "video_id": "_3UvCy7FMTg",
+   "person": "Kunal Kamra",
+   "category": "Indian comedian (local context)",
+   "hints_shown": 5,
+   "slug": "kunal-kamra",
+   "comedian": "Kenny Sebastian",
+   "comedian_solved_at": 5,
+   "comedian_wrong": 2,
+   "chatgpt": {
+    "solved_at": 3,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 44.9,
+    "turns": 3,
+    "tokens": 2794,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 3,
+    "wrong": 1,
+    "guesses": 2,
+    "seconds": 22.6,
+    "turns": 3,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "chatgpt"
+  },
+  {
+   "id": "ep1_p3",
+   "episode": "s1e1",
+   "video_id": "_3UvCy7FMTg",
+   "person": "Osama bin Laden",
+   "category": "global",
+   "hints_shown": 5,
+   "slug": "osama-bin-laden",
+   "comedian": "Abish Mathew",
+   "comedian_solved_at": 5,
+   "comedian_wrong": 1,
+   "chatgpt": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 13.1,
+    "turns": 2,
+    "tokens": 701,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 2,
+    "wrong": 1,
+    "guesses": 2,
+    "seconds": 9.0,
+    "turns": 2,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "chatgpt"
+  },
+  {
+   "id": "fin_p1",
+   "episode": "s1finale",
+   "video_id": "2pxmtBus3f8",
+   "person": "Stephen Hawking",
+   "category": "global",
+   "hints_shown": 5,
+   "slug": "stephen-hawking",
+   "comedian": "Rohan Joshi",
+   "comedian_solved_at": 2,
+   "comedian_wrong": 0,
+   "chatgpt": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 11.5,
+    "turns": 2,
+    "tokens": 645,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 8.2,
+    "turns": 2,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "both"
+  },
+  {
+   "id": "fin_p2",
+   "episode": "s1finale",
+   "video_id": "2pxmtBus3f8",
+   "person": "Rahul Gandhi",
+   "category": "Indian politics (local context)",
+   "hints_shown": 5,
+   "slug": "rahul-gandhi",
+   "comedian": "Kaneez Surka",
+   "comedian_solved_at": 5,
+   "comedian_wrong": 3,
+   "chatgpt": {
+    "solved_at": null,
+    "wrong": 3,
+    "guesses": 3,
+    "seconds": 25.5,
+    "turns": 5,
+    "tokens": 3697,
+    "verdict": "beaten"
+   },
+   "claude": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 7.7,
+    "turns": 1,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "claude"
+  },
+  {
+   "id": "fin_p3",
+   "episode": "s1finale",
+   "video_id": "2pxmtBus3f8",
+   "person": "Adolf Hitler",
+   "category": "global",
+   "hints_shown": 5,
+   "slug": "adolf-hitler",
+   "comedian": "Abish Mathew",
+   "comedian_solved_at": null,
+   "comedian_wrong": 3,
+   "chatgpt": {
+    "solved_at": null,
+    "wrong": 3,
+    "guesses": 3,
+    "seconds": 42.0,
+    "turns": 5,
+    "tokens": 5292,
+    "verdict": "nobody"
+   },
+   "claude": {
+    "solved_at": null,
+    "wrong": 3,
+    "guesses": 3,
+    "seconds": 16.0,
+    "turns": 5,
+    "tokens": 0,
+    "verdict": "nobody"
+   },
+   "three_way": "nobody"
+  },
+  {
+   "id": "s1e10_p1",
+   "episode": "s1e10",
+   "video_id": "uSfSk7nXY4M",
+   "person": "Arvind Kejriwal",
+   "category": "politician",
+   "hints_shown": 5,
+   "slug": "arvind-kejriwal",
+   "comedian": "Onkar Yadav",
+   "comedian_solved_at": 4,
+   "comedian_wrong": 2,
+   "chatgpt": {
+    "solved_at": 4,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 41.4,
+    "turns": 4,
+    "tokens": 3335,
+    "verdict": "beaten"
+   },
+   "claude": {
+    "solved_at": 3,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 18.9,
+    "turns": 3,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "claude"
+  },
+  {
+   "id": "s1e10_p2",
+   "episode": "s1e10",
+   "video_id": "uSfSk7nXY4M",
+   "person": "Saurav Ganguly",
+   "category": "sportsperson",
+   "hints_shown": 5,
+   "slug": "saurav-ganguly",
+   "comedian": "Aashish Solanki",
+   "comedian_solved_at": 4,
+   "comedian_wrong": 1,
+   "chatgpt": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 12.1,
+    "turns": 2,
+    "tokens": 700,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 2,
+    "wrong": 1,
+    "guesses": 2,
+    "seconds": 12.6,
+    "turns": 2,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "chatgpt"
+  },
+  {
+   "id": "s1e10_p3",
+   "episode": "s1e10",
+   "video_id": "uSfSk7nXY4M",
+   "person": "Vishwanathan Anand",
+   "category": "sportsperson",
+   "hints_shown": 5,
+   "slug": "vishwanathan-anand",
+   "comedian": "Shreya Priyam Roy",
+   "comedian_solved_at": null,
+   "comedian_wrong": 2,
+   "chatgpt": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 18.9,
+    "turns": 2,
+    "tokens": 1022,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 3,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 21.6,
+    "turns": 3,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "chatgpt"
+  },
+  {
+   "id": "s1e11_p1",
+   "episode": "s1e11",
+   "video_id": "NvE73f5saN0",
+   "person": "Shashi Tharoor",
+   "category": "Indian politics (local context)",
+   "hints_shown": 5,
+   "slug": "shashi-tharoor",
+   "comedian": "Rahul Dua",
+   "comedian_solved_at": 5,
+   "comedian_wrong": 2,
+   "chatgpt": {
+    "solved_at": null,
+    "wrong": 3,
+    "guesses": 3,
+    "seconds": 82.2,
+    "turns": 5,
+    "tokens": 10249,
+    "verdict": "beaten"
+   },
+   "claude": {
+    "solved_at": 3,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 15.6,
+    "turns": 3,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "claude"
+  },
+  {
+   "id": "s1e11_p2",
+   "episode": "s1e11",
+   "video_id": "NvE73f5saN0",
+   "person": "Rekha",
+   "category": "Indian cinema (local context)",
+   "hints_shown": 5,
+   "slug": "rekha",
+   "comedian": "Gaurav Gupta",
+   "comedian_solved_at": null,
+   "comedian_wrong": 3,
+   "chatgpt": {
+    "solved_at": 5,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 34.3,
+    "turns": 5,
+    "tokens": 4054,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": null,
+    "wrong": 3,
+    "guesses": 3,
+    "seconds": 20.1,
+    "turns": 5,
+    "tokens": 0,
+    "verdict": "nobody"
+   },
+   "three_way": "chatgpt"
+  },
+  {
+   "id": "s1e11_p3",
+   "episode": "s1e11",
+   "video_id": "NvE73f5saN0",
+   "person": "Sunny Deol",
+   "category": "Indian cinema (local context)",
+   "hints_shown": 5,
+   "slug": "sunny-deol",
+   "comedian": "Gurleen Pannu",
+   "comedian_solved_at": 4,
+   "comedian_wrong": 0,
+   "chatgpt": {
+    "solved_at": 3,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 29.1,
+    "turns": 3,
+    "tokens": 2687,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 6.5,
+    "turns": 1,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "claude"
+  },
+  {
+   "id": "s1e12_p1",
+   "episode": "s1e12",
+   "video_id": "C0yLJmHydfc",
+   "person": "Vladimir Putin",
+   "category": "World leader",
+   "hints_shown": 5,
+   "slug": "vladimir-putin",
+   "comedian": "Chirag Panjwani",
+   "comedian_solved_at": null,
+   "comedian_wrong": 3,
+   "chatgpt": {
+    "solved_at": 4,
+    "wrong": 1,
+    "guesses": 2,
+    "seconds": 50.5,
+    "turns": 4,
+    "tokens": 4054,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": null,
+    "wrong": 3,
+    "guesses": 3,
+    "seconds": 20.1,
+    "turns": 5,
+    "tokens": 0,
+    "verdict": "nobody"
+   },
+   "three_way": "chatgpt"
+  },
+  {
+   "id": "s1e12_p2",
+   "episode": "s1e12",
+   "video_id": "C0yLJmHydfc",
+   "person": "The Rock",
+   "category": "Wrestler and actor",
+   "hints_shown": 5,
+   "slug": "the-rock",
+   "comedian": "Shamik Chakrabarti",
+   "comedian_solved_at": 2,
+   "comedian_wrong": 0,
+   "chatgpt": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 10.8,
+    "turns": 2,
+    "tokens": 708,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 9.9,
+    "turns": 1,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "claude"
+  },
+  {
+   "id": "s1e12_p3",
+   "episode": "s1e12",
+   "video_id": "C0yLJmHydfc",
+   "person": "Ratan Tata",
+   "category": "Industrialist",
+   "hints_shown": 5,
+   "slug": "ratan-tata",
+   "comedian": "Shreeja Chaturvedi",
+   "comedian_solved_at": 4,
+   "comedian_wrong": 0,
+   "chatgpt": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 7.0,
+    "turns": 1,
+    "tokens": 334,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 3.9,
+    "turns": 1,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "both"
+  },
+  {
+   "id": "s1e2_p1",
+   "episode": "s1e2",
+   "video_id": "54UQvPPvg0o",
+   "person": "Dawood Ibrahim",
+   "category": "underworld",
+   "hints_shown": 5,
+   "slug": "dawood-ibrahim",
+   "comedian": "Karunesh Talwar",
+   "comedian_solved_at": null,
+   "comedian_wrong": 3,
+   "chatgpt": {
+    "solved_at": 3,
+    "wrong": 1,
+    "guesses": 2,
+    "seconds": 44.5,
+    "turns": 3,
+    "tokens": 2825,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 5.9,
+    "turns": 1,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "claude"
+  },
+  {
+   "id": "s1e2_p2",
+   "episode": "s1e2",
+   "video_id": "54UQvPPvg0o",
+   "person": "Raj Kundra",
+   "category": "businessman",
+   "hints_shown": 5,
+   "slug": "raj-kundra",
+   "comedian": "Anirban Dasgupta",
+   "comedian_solved_at": 5,
+   "comedian_wrong": 2,
+   "chatgpt": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 15.5,
+    "turns": 2,
+    "tokens": 726,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 3,
+    "wrong": 1,
+    "guesses": 2,
+    "seconds": 13.7,
+    "turns": 3,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "chatgpt"
+  },
+  {
+   "id": "s1e2_p3",
+   "episode": "s1e2",
+   "video_id": "54UQvPPvg0o",
+   "person": "Mohammad Ali Jinnah",
+   "category": "historical figure",
+   "hints_shown": 5,
+   "slug": "mohammad-ali-jinnah",
+   "comedian": "Shamik Chakrabarti",
+   "comedian_solved_at": null,
+   "comedian_wrong": 3,
+   "chatgpt": {
+    "solved_at": 3,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 38.1,
+    "turns": 3,
+    "tokens": 2403,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 2,
+    "wrong": 1,
+    "guesses": 2,
+    "seconds": 9.7,
+    "turns": 2,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "claude"
+  },
+  {
+   "id": "s1e3_p1",
+   "episode": "s1e3",
+   "video_id": "hMuyfGbwwZE",
+   "person": "Amitabh Bachchan",
+   "category": "Bollywood",
+   "hints_shown": 3,
+   "slug": "amitabh-bachchan",
+   "comedian": "Amit Tandon",
+   "comedian_solved_at": 3,
+   "comedian_wrong": 0,
+   "chatgpt": {
+    "solved_at": null,
+    "wrong": 1,
+    "guesses": 1,
+    "seconds": 53.4,
+    "turns": 3,
+    "tokens": 2864,
+    "verdict": "beaten"
+   },
+   "claude": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 3.0,
+    "turns": 1,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "claude"
+  },
+  {
+   "id": "s1e3_p2",
+   "episode": "s1e3",
+   "video_id": "hMuyfGbwwZE",
+   "person": "Donald Trump",
+   "category": "Politics",
+   "hints_shown": 5,
+   "slug": "donald-trump",
+   "comedian": "Gurleen Pannu",
+   "comedian_solved_at": null,
+   "comedian_wrong": 1,
+   "chatgpt": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 11.2,
+    "turns": 2,
+    "tokens": 558,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 3,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 11.7,
+    "turns": 3,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "chatgpt"
+  },
+  {
+   "id": "s1e3_p3",
+   "episode": "s1e3",
+   "video_id": "hMuyfGbwwZE",
+   "person": "Eminem",
+   "category": "Music",
+   "hints_shown": 5,
+   "slug": "eminem",
+   "comedian": "Raunaq Rajani",
+   "comedian_solved_at": null,
+   "comedian_wrong": 2,
+   "chatgpt": {
+    "solved_at": 3,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 14.6,
+    "turns": 3,
+    "tokens": 1143,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 4,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 18.0,
+    "turns": 4,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "chatgpt"
+  },
+  {
+   "id": "s1e4_p1",
+   "episode": "s1e4",
+   "video_id": "r0nG0-18pu4",
+   "person": "Mahendra Singh Dhoni",
+   "category": "Cricketer",
+   "hints_shown": 5,
+   "slug": "mahendra-singh-dhoni",
+   "comedian": "Azeem Banatwalla",
+   "comedian_solved_at": null,
+   "comedian_wrong": 1,
+   "chatgpt": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 9.7,
+    "turns": 2,
+    "tokens": 663,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 3.8,
+    "turns": 1,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "claude"
+  },
+  {
+   "id": "s1e4_p2",
+   "episode": "s1e4",
+   "video_id": "r0nG0-18pu4",
+   "person": "Jawaharlal Nehru",
+   "category": "Prime minister",
+   "hints_shown": 5,
+   "slug": "jawaharlal-nehru",
+   "comedian": "Varun Thakur",
+   "comedian_solved_at": null,
+   "comedian_wrong": 2,
+   "chatgpt": {
+    "solved_at": 3,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 29.0,
+    "turns": 3,
+    "tokens": 2441,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 3,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 10.9,
+    "turns": 3,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "both"
+  },
+  {
+   "id": "s1e4_p3",
+   "episode": "s1e4",
+   "video_id": "r0nG0-18pu4",
+   "person": "Anurag Kashyap",
+   "category": "Film director",
+   "hints_shown": 5,
+   "slug": "anurag-kashyap",
+   "comedian": "Kautuk Srivastava",
+   "comedian_solved_at": 4,
+   "comedian_wrong": 1,
+   "chatgpt": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 6.4,
+    "turns": 1,
+    "tokens": 373,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 6.7,
+    "turns": 1,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "both"
+  },
+  {
+   "id": "s1e5_p1",
+   "episode": "s1e5",
+   "video_id": "Bvj6lZRLrlc",
+   "person": "Mahatma Gandhi",
+   "category": "global/India icon",
+   "hints_shown": 5,
+   "slug": "mahatma-gandhi",
+   "comedian": "Rahul Subramanian",
+   "comedian_solved_at": 5,
+   "comedian_wrong": 2,
+   "chatgpt": {
+    "solved_at": 3,
+    "wrong": 1,
+    "guesses": 2,
+    "seconds": 16.9,
+    "turns": 3,
+    "tokens": 1107,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 8.1,
+    "turns": 2,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "claude"
+  },
+  {
+   "id": "s1e5_p2",
+   "episode": "s1e5",
+   "video_id": "Bvj6lZRLrlc",
+   "person": "Virat Kohli",
+   "category": "global/India icon",
+   "hints_shown": 5,
+   "slug": "virat-kohli",
+   "comedian": "Gaurav Kapoor",
+   "comedian_solved_at": null,
+   "comedian_wrong": 1,
+   "chatgpt": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 5.3,
+    "turns": 1,
+    "tokens": 318,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 4.8,
+    "turns": 1,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "both"
+  },
+  {
+   "id": "s1e5_p3",
+   "episode": "s1e5",
+   "video_id": "Bvj6lZRLrlc",
+   "person": "Sanjay Dutt",
+   "category": "global/India icon",
+   "hints_shown": 5,
+   "slug": "sanjay-dutt",
+   "comedian": "Sumaira Sheikh",
+   "comedian_solved_at": 3,
+   "comedian_wrong": 0,
+   "chatgpt": {
+    "solved_at": 3,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 27.1,
+    "turns": 3,
+    "tokens": 1856,
+    "verdict": "beaten"
+   },
+   "claude": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 10.5,
+    "turns": 2,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "claude"
+  },
+  {
+   "id": "s1e6_p1",
+   "episode": "s1e6",
+   "video_id": "iDvobmrf-Ng",
+   "person": "Ajay Devgn",
+   "category": "Bollywood actor",
+   "hints_shown": 2,
+   "slug": "ajay-devgn",
+   "comedian": "Kaustubh Agarwal",
+   "comedian_solved_at": 2,
+   "comedian_wrong": 0,
+   "chatgpt": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 8.8,
+    "turns": 1,
+    "tokens": 436,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 15.3,
+    "turns": 2,
+    "tokens": 0,
+    "verdict": "beaten"
+   },
+   "three_way": "chatgpt"
+  },
+  {
+   "id": "s1e6_p2",
+   "episode": "s1e6",
+   "video_id": "iDvobmrf-Ng",
+   "person": "Ranveer Allahbadia",
+   "category": "YouTuber and podcaster",
+   "hints_shown": 5,
+   "slug": "ranveer-allahbadia",
+   "comedian": "Aashish Solanki",
+   "comedian_solved_at": 4,
+   "comedian_wrong": 1,
+   "chatgpt": {
+    "solved_at": 4,
+    "wrong": 1,
+    "guesses": 2,
+    "seconds": 110.3,
+    "turns": 4,
+    "tokens": 7127,
+    "verdict": "beaten"
+   },
+   "claude": {
+    "solved_at": null,
+    "wrong": 3,
+    "guesses": 3,
+    "seconds": 35.8,
+    "turns": 5,
+    "tokens": 0,
+    "verdict": "beaten"
+   },
+   "three_way": "comedian"
+  },
+  {
+   "id": "s1e6_p3",
+   "episode": "s1e6",
+   "video_id": "iDvobmrf-Ng",
+   "person": "Yo Yo Honey Singh",
+   "category": "rapper and singer",
+   "hints_shown": 5,
+   "slug": "yo-yo-honey-singh",
+   "comedian": "Rajat Sood",
+   "comedian_solved_at": null,
+   "comedian_wrong": 3,
+   "chatgpt": {
+    "solved_at": 3,
+    "wrong": 1,
+    "guesses": 2,
+    "seconds": 51.4,
+    "turns": 3,
+    "tokens": 3630,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": null,
+    "wrong": 3,
+    "guesses": 3,
+    "seconds": 19.0,
+    "turns": 5,
+    "tokens": 0,
+    "verdict": "nobody"
+   },
+   "three_way": "chatgpt"
+  },
+  {
+   "id": "s1e7_p1",
+   "episode": "s1e7",
+   "video_id": "x5cWXEsSsD0",
+   "person": "Kangana Ranaut",
+   "category": "Bollywood actor",
+   "hints_shown": 5,
+   "slug": "kangana-ranaut",
+   "comedian": "Aakash Gupta",
+   "comedian_solved_at": null,
+   "comedian_wrong": 3,
+   "chatgpt": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 11.3,
+    "turns": 2,
+    "tokens": 620,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 3,
+    "wrong": 1,
+    "guesses": 2,
+    "seconds": 15.4,
+    "turns": 3,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "chatgpt"
+  },
+  {
+   "id": "s1e7_p2",
+   "episode": "s1e7",
+   "video_id": "x5cWXEsSsD0",
+   "person": "Sachin Tendulkar",
+   "category": "cricketer",
+   "hints_shown": 5,
+   "slug": "sachin-tendulkar",
+   "comedian": "Anubhav Singh Bassi",
+   "comedian_solved_at": null,
+   "comedian_wrong": 3,
+   "chatgpt": {
+    "solved_at": null,
+    "wrong": 3,
+    "guesses": 3,
+    "seconds": 83.0,
+    "turns": 5,
+    "tokens": 9805,
+    "verdict": "nobody"
+   },
+   "claude": {
+    "solved_at": null,
+    "wrong": 3,
+    "guesses": 3,
+    "seconds": 28.3,
+    "turns": 5,
+    "tokens": 0,
+    "verdict": "nobody"
+   },
+   "three_way": "nobody"
+  },
+  {
+   "id": "s1e7_p3",
+   "episode": "s1e7",
+   "video_id": "x5cWXEsSsD0",
+   "person": "Salman Khan",
+   "category": "Bollywood actor",
+   "hints_shown": 4,
+   "slug": "salman-khan",
+   "comedian": "Shreeja Chaturvedi",
+   "comedian_solved_at": 4,
+   "comedian_wrong": 1,
+   "chatgpt": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 16.2,
+    "turns": 2,
+    "tokens": 847,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 8.6,
+    "turns": 2,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "both"
+  },
+  {
+   "id": "s1e8_p1",
+   "episode": "s1e8",
+   "video_id": "2HZBEKqksQE",
+   "person": "Zohran Mamdani",
+   "category": "global",
+   "hints_shown": 5,
+   "slug": "zohran-mamdani",
+   "comedian": "Jose Covaco",
+   "comedian_solved_at": 3,
+   "comedian_wrong": 1,
+   "chatgpt": {
+    "solved_at": 4,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 44.8,
+    "turns": 4,
+    "tokens": 3598,
+    "verdict": "beaten"
+   },
+   "claude": {
+    "solved_at": 4,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 20.3,
+    "turns": 4,
+    "tokens": 0,
+    "verdict": "beaten"
+   },
+   "three_way": "comedian"
+  },
+  {
+   "id": "s1e8_p2",
+   "episode": "s1e8",
+   "video_id": "2HZBEKqksQE",
+   "person": "Poonam Pandey",
+   "category": "Indian celebrity (local context)",
+   "hints_shown": 5,
+   "slug": "poonam-pandey",
+   "comedian": "Rahul Subramanian",
+   "comedian_solved_at": null,
+   "comedian_wrong": 1,
+   "chatgpt": {
+    "solved_at": 3,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 58.7,
+    "turns": 3,
+    "tokens": 4318,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 3,
+    "wrong": 1,
+    "guesses": 2,
+    "seconds": 18.5,
+    "turns": 3,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "chatgpt"
+  },
+  {
+   "id": "s1e8_p3",
+   "episode": "s1e8",
+   "video_id": "2HZBEKqksQE",
+   "person": "Deepika Padukone",
+   "category": "global/India icon",
+   "hints_shown": 5,
+   "slug": "deepika-padukone",
+   "comedian": "Urooj Ashfaq",
+   "comedian_solved_at": 4,
+   "comedian_wrong": 0,
+   "chatgpt": {
+    "solved_at": 3,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 30.0,
+    "turns": 3,
+    "tokens": 2142,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 2,
+    "wrong": 1,
+    "guesses": 2,
+    "seconds": 10.1,
+    "turns": 2,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "claude"
+  },
+  {
+   "id": "s1e9_p1",
+   "episode": "s1e9",
+   "video_id": "tIjBtIBjaDA",
+   "person": "Elon Musk",
+   "category": "tech/business",
+   "hints_shown": 5,
+   "slug": "elon-musk",
+   "comedian": "Anirban Dasgupta",
+   "comedian_solved_at": null,
+   "comedian_wrong": 2,
+   "chatgpt": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 7.1,
+    "turns": 1,
+    "tokens": 378,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 5.0,
+    "turns": 1,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "both"
+  },
+  {
+   "id": "s1e9_p2",
+   "episode": "s1e9",
+   "video_id": "tIjBtIBjaDA",
+   "person": "Christopher Nolan",
+   "category": "film",
+   "hints_shown": 5,
+   "slug": "christopher-nolan",
+   "comedian": "Biswa Kalyan Rath",
+   "comedian_solved_at": 3,
+   "comedian_wrong": 0,
+   "chatgpt": {
+    "solved_at": 3,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 42.2,
+    "turns": 3,
+    "tokens": 3094,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 3,
+    "wrong": 2,
+    "guesses": 3,
+    "seconds": 13.3,
+    "turns": 3,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "both"
+  },
+  {
+   "id": "s1e9_p3",
+   "episode": "s1e9",
+   "video_id": "tIjBtIBjaDA",
+   "person": "Neil Armstrong",
+   "category": "history/space",
+   "hints_shown": 5,
+   "slug": "neil-armstrong",
+   "comedian": "Prashasti Singh",
+   "comedian_solved_at": 5,
+   "comedian_wrong": 0,
+   "chatgpt": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 7.5,
+    "turns": 2,
+    "tokens": 541,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 6.2,
+    "turns": 2,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "both"
+  },
+  {
+   "id": "s2e1_p1",
+   "episode": "s2e1",
+   "video_id": "R2MK5oikbVI",
+   "person": "Humpty Dumpty",
+   "category": "fictional",
+   "hints_shown": 5,
+   "slug": "humpty-dumpty",
+   "comedian": "Anirban Dasgupta",
+   "comedian_solved_at": 1,
+   "comedian_wrong": 0,
+   "chatgpt": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 9.0,
+    "turns": 1,
+    "tokens": 363,
+    "verdict": "won"
+   },
+   "claude": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 4.0,
+    "turns": 1,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "both"
+  },
+  {
+   "id": "s2e1_p2",
+   "episode": "s2e1",
+   "video_id": "R2MK5oikbVI",
+   "person": "Batman",
+   "category": "fictional",
+   "hints_shown": 5,
+   "slug": "batman",
+   "comedian": "Rahul Subramanian",
+   "comedian_solved_at": 1,
+   "comedian_wrong": 0,
+   "chatgpt": {
+    "solved_at": 2,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 12.6,
+    "turns": 2,
+    "tokens": 769,
+    "verdict": "beaten"
+   },
+   "claude": {
+    "solved_at": 1,
+    "wrong": 0,
+    "guesses": 1,
+    "seconds": 6.5,
+    "turns": 1,
+    "tokens": 0,
+    "verdict": "won"
+   },
+   "three_way": "claude"
+  },
+  {
+   "id": "s2e1_p3",
+   "episode": "s2e1",
+   "video_id": "R2MK5oikbVI",
+   "person": "Munna Bhai",
+   "category": "fictional",
+   "hints_shown": 5,
+   "slug": "munna-bhai",
+   "comedian": "Shreeja Chaturvedi",
+   "comedian_solved_at": 2,
+   "comedian_wrong": 0,
+   "chatgpt": {
+    "solved_at": null,
+    "wrong": 3,
+    "guesses": 3,
+    "seconds": 145.6,
+    "turns": 5,
+    "tokens": 18658,
+    "verdict": "beaten"
+   },
+   "claude": {
+    "solved_at": 2,
+    "wrong": 1,
+    "guesses": 2,
+    "seconds": 18.2,
+    "turns": 2,
+    "tokens": 0,
+    "verdict": "beaten"
+   },
+   "three_way": "comedian"
+  }
+ ],
+ "summary": {
+  "chatgpt": {
+   "solved": 36,
+   "of": 42,
+   "first_hint": 6,
+   "avg_hint": 2.5,
+   "median_hint": 2.5,
+   "wrong": 33,
+   "beat_comedian": 31,
+   "lost_to_comedian": 9,
+   "nobody": 2,
+   "by_hint": {
+    "1": 6,
+    "2": 12,
+    "3": 13,
+    "4": 4,
+    "5": 1
+   },
+   "median_reply_s": 8.600000000000001,
+   "tokens": 115280
+  },
+  "claude": {
+   "solved": 36,
+   "of": 42,
+   "first_hint": 12,
+   "avg_hint": 2.08,
+   "median_hint": 2.0,
+   "wrong": 45,
+   "beat_comedian": 33,
+   "lost_to_comedian": 4,
+   "nobody": 5,
+   "by_hint": {
+    "1": 12,
+    "2": 11,
+    "3": 11,
+    "4": 2,
+    "5": 0
+   },
+   "median_reply_s": 5.025,
+   "tokens": 0
+  },
+  "comedians": {
+   "solved": 26,
+   "of": 42,
+   "avg_hint": 3.62,
+   "by_hint": {
+    "1": 2,
+    "2": 4,
+    "3": 4,
+    "4": 8,
+    "5": 8
+   },
+   "wrong": 57
+  },
+  "three_way": {
+   "claude": 13,
+   "chatgpt": 14,
+   "both": 10,
+   "comedian": 3,
+   "nobody": 2
+  },
+  "head_to_head": {
+   "claude_fewer_hints": 14,
+   "chatgpt_fewer_hints": 10,
+   "same_hint": 16,
+   "neither": 2
+  }
+ }
+}

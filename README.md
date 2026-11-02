@@ -98,6 +98,34 @@ Everything is checked against the ground truth in [`answers/`](answers/README.md
    automatically), and its Who Am I round, played hint by hint.
 6. **The bill**: every API call is logged with its cost.
 
+## AI Wants to Guess
+
+The same repo holds a second, simpler benchmark: ChatGPT and Claude play all 42 blindfold Who Am I rounds of the show, Season 1 plus S2 EP1, against the comedians.
+
+| | Solved | Average hint | Wrong guesses | Beat the comedian |
+|---|---|---|---|---|
+| Claude Opus 5.5 | 36 of 42 | 2.08 | 45 | 33 |
+| GPT-6 Astra (high effort) | 36 of 42 | 2.50 | 33 | 31 |
+| The comedians | 26 of 42 | 3.62 | 57 | |
+
+Claude guessed on hint 1 in 29 rounds and ChatGPT in 11, which is most of the story. [The write-up](https://aiwithayushman.com/blog/chatgpt-vs-claude-nation-wants-to-guess) has the analysis, and [the project page](https://aiwithayushman.com/projects/ai-wants-to-guess) has all 126 reels, searchable.
+
+Run it on any model. It needs one key and no video:
+
+```bash
+python -m desibench guess --model gpt-6-astra --round s2e1_p1      # one round first
+python -m desibench guess --model gpt-6-astra                      # all 42
+python -m desibench guess --model claude-opus-5-5                  # needs ANTHROPIC_API_KEY
+```
+
+The rules match the reels. One hint at a time, 3 guesses, 1 per hint, no tools and no feedback. A model plays each round once, and a played round is never replayed. Against the comedian, whoever says the name first on the episode's clock wins. Replies land at the end of the hint plus the model's latency.
+
+Two differences from my run. ChatGPT played through the Responses API with reasoning effort high, and `guess` uses Chat Completions with the model's defaults. Claude was played by a fresh agent per round, with no tools, and `guess` calls the Messages API. So treat a new run as comparable, not identical.
+
+- `answers/wants_to_guess.json`: the hints, answer keys and episode timings, as I took them from the show. They may have flaws, and I did my best.
+- `results/wants_to_guess.json`: my scores for every round.
+- `results/wants_to_guess_runs.json`: every guess and reasoning word for word, for 40 rounds. Kunal Kamra and Adolf Hitler are in the scores only.
+
 ## What's in here
 
 | Path | What |

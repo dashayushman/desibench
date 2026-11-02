@@ -1,0 +1,1187 @@
+{
+ "_note": "AI Wants to Guess: all 42 Who Am I rounds of The Nation Wants to Guess, Season 1 and S2 EP1, in the show's wording. Times are seconds on the episode's own clock. A guess is right when it contains one of the accept parts.",
+ "rounds": [
+  {
+   "id": "ep1_p1",
+   "episode": "s1e1",
+   "video_id": "_3UvCy7FMTg",
+   "answer": "Mother Teresa",
+   "accept": [
+    "teresa"
+   ],
+   "hints": [
+    "I was virtue signalling before it was cool",
+    "Haters prayed for my downfall but I kept slaying",
+    "Every Miss World would name drop me in the 90s",
+    "I would've been the perfect target audience for Tide detergent",
+    "I am known to help needy and downtrodden in Bengal"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3527.2,
+    3556.7,
+    3587.6,
+    3650.6,
+    3672.9
+   ],
+   "comedian": "Jose Covaco",
+   "comedian_solved_at_hint": 5,
+   "comedian_said_at": 3739.4
+  },
+  {
+   "id": "ep1_p2",
+   "episode": "s1e1",
+   "video_id": "_3UvCy7FMTg",
+   "answer": "Kunal Kamra",
+   "accept": [
+    "kamra"
+   ],
+   "hints": [
+    "I grew up in Maharashtra but now I reside in the south",
+    "Hair loss is the least of my problems",
+    "When it comes to cabs, I only take Uber",
+    "Looks-wise, I have become what I hated",
+    "I am every lawyer's dream client"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3845.7,
+    3880.0,
+    3933.9,
+    3973.0,
+    4025.2
+   ],
+   "comedian": "Kenny Sebastian",
+   "comedian_solved_at_hint": 5,
+   "comedian_said_at": 4046.0
+  },
+  {
+   "id": "ep1_p3",
+   "episode": "s1e1",
+   "video_id": "_3UvCy7FMTg",
+   "answer": "Osama bin Laden",
+   "accept": [
+    "laden"
+   ],
+   "hints": [
+    "I love playing hide and seek",
+    "I have a high body count",
+    "I love living off grid",
+    "My fav song is \"Wake me up when September ends\"",
+    "I've had a very explosive career"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    4087.5,
+    4098.5,
+    4120.1,
+    4178.4,
+    4212.5
+   ],
+   "comedian": "Abish Mathew",
+   "comedian_solved_at_hint": 5,
+   "comedian_said_at": 4240.6
+  },
+  {
+   "id": "fin_p1",
+   "episode": "s1finale",
+   "video_id": "2pxmtBus3f8",
+   "answer": "Stephen Hawking",
+   "accept": [
+    "hawking"
+   ],
+   "hints": [
+    "They see me rolling, they hating",
+    "Battery life is very important",
+    "Main kursi nahi chhodta",
+    "Marks topper waale, harkatein backbencher waali",
+    "Idiots think I sell pressure cooker"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    4368.2,
+    4382.9,
+    4448.3,
+    4454.0,
+    4462.4
+   ],
+   "comedian": "Rohan Joshi",
+   "comedian_solved_at_hint": 2,
+   "comedian_said_at": 4403.2
+  },
+  {
+   "id": "fin_p2",
+   "episode": "s1finale",
+   "video_id": "2pxmtBus3f8",
+   "answer": "Rahul Gandhi",
+   "accept": [
+    "rahul gandhi"
+   ],
+   "hints": [
+    "Everyone asks me, \"mummy kaisi hain\"",
+    "Haq se single",
+    "Winning isn't everything",
+    "I'm not the life of a party, I'm the death of a party",
+    "I am the aakhri pasta"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    4522.7,
+    4537.9,
+    4560.5,
+    4596.6,
+    4627.3
+   ],
+   "comedian": "Kaneez Surka",
+   "comedian_solved_at_hint": 5,
+   "comedian_said_at": 4772.4
+  },
+  {
+   "id": "fin_p3",
+   "episode": "s1finale",
+   "video_id": "2pxmtBus3f8",
+   "answer": "Adolf Hitler",
+   "accept": [
+    "hitler"
+   ],
+   "hints": [
+    "My speeches bring all the boys to the yard",
+    "To my critics I say, 'Mat kar lala'",
+    "I blame all my failures on past leaders",
+    "I have a very passionate fan base",
+    "I despise liberals and intellectuals"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    4825.7,
+    4838.4,
+    4885.2,
+    4902.3,
+    4917.7
+   ],
+   "comedian": "Abish Mathew",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e10_p1",
+   "episode": "s1e10",
+   "video_id": "uSfSk7nXY4M",
+   "answer": "Arvind Kejriwal",
+   "accept": [
+    "kejriwal"
+   ],
+   "hints": [
+    "Alcohol has ruined my career",
+    "Started from the bottom now I'm back there",
+    "I love playing the sweep shot",
+    "Maine bahut logon ko topi pehnai hai",
+    "Mujhe tu tadaak pasand nahi"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3774.98,
+    3796.34,
+    3850.0,
+    3861.6,
+    3895.3
+   ],
+   "comedian": "Onkar Yadav",
+   "comedian_solved_at_hint": 4,
+   "comedian_said_at": 3870.3
+  },
+  {
+   "id": "s1e10_p2",
+   "episode": "s1e10",
+   "video_id": "uSfSk7nXY4M",
+   "answer": "Saurav Ganguly",
+   "accept": [
+    "ganguly",
+    "ganguli"
+   ],
+   "hints": [
+    "My topless picture went viral",
+    "I'm a leftie but everyone wants to make me a rightie",
+    "If I play football, I will always be offside",
+    "I'm from the city that always sleeps",
+    "At the peak of my youth I was called a grandfather"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3919.36,
+    3937.52,
+    3956.78,
+    4050.12,
+    4092.34
+   ],
+   "comedian": "Aashish Solanki",
+   "comedian_solved_at_hint": 4,
+   "comedian_said_at": 4064.6
+  },
+  {
+   "id": "s1e10_p3",
+   "episode": "s1e10",
+   "video_id": "uSfSk7nXY4M",
+   "answer": "Vishwanathan Anand",
+   "accept": [
+    "vishwanathan anand",
+    "viswanathan anand",
+    "vishwanath anand",
+    "viswanath anand",
+    "vishy anand"
+   ],
+   "hints": [
+    "Chaar chavanni ghode pe Russian mere l**de pe",
+    "I have a very sedentary job",
+    "Mere check kabhi bounce nahi hote",
+    "Never let them know your next move",
+    "It don't matter if you're black or white"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    4109.6,
+    4135.28,
+    4165.66,
+    4209.42,
+    4291.94
+   ],
+   "comedian": "Shreya Priyam Roy",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e11_p1",
+   "episode": "s1e11",
+   "video_id": "NvE73f5saN0",
+   "answer": "Shashi Tharoor",
+   "accept": [
+    "tharoor",
+    "tharur"
+   ],
+   "hints": [
+    "Mein gade murde nahi ukhaadta",
+    "No one worked harder than me to become a secretary",
+    "Angrez chale gaye lekin aulaad chor gaye",
+    "My favourite cricketer sounds like a phone brand",
+    "I will destroy you in scrabble"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3507.5,
+    3538.2,
+    3584.0,
+    3648.4,
+    3706.4
+   ],
+   "comedian": "Rahul Dua",
+   "comedian_solved_at_hint": 5,
+   "comedian_said_at": 3722.4
+  },
+  {
+   "id": "s1e11_p2",
+   "episode": "s1e11",
+   "video_id": "NvE73f5saN0",
+   "answer": "Rekha",
+   "accept": [
+    "rekha"
+   ],
+   "hints": [
+    "My biopic will be called The Vampire Diaries",
+    "Shawty doesn't appreciate what she got",
+    "Main toh paps se tameez se baat karti hoon",
+    "He is so respectful to computers",
+    "My namesake is ruining Delhi"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3769.7,
+    3791.5,
+    3824.1,
+    3850.2,
+    3894.4
+   ],
+   "comedian": "Gaurav Gupta",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e11_p3",
+   "episode": "s1e11",
+   "video_id": "NvE73f5saN0",
+   "answer": "Sunny Deol",
+   "accept": [
+    "sunny deol",
+    "ajay singh deol"
+   ],
+   "hints": [
+    "Pakistan ki maa ka bh***a",
+    "I am the face of noise pollution",
+    "Calendars make me furious",
+    "In another life I would have become a plumber",
+    "I'm very heavy-handed"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    4007.8,
+    4031.9,
+    4046.8,
+    4064.9,
+    4087.4
+   ],
+   "comedian": "Gurleen Pannu",
+   "comedian_solved_at_hint": 4,
+   "comedian_said_at": 4071.0
+  },
+  {
+   "id": "s1e12_p1",
+   "episode": "s1e12",
+   "video_id": "C0yLJmHydfc",
+   "answer": "Vladimir Putin",
+   "accept": [
+    "putin"
+   ],
+   "hints": [
+    "I am bad at setting boundaries",
+    "My name leads to a 'That's what she said'",
+    "I am my country's Dhurandhar",
+    "I have gone to war with a standup comic",
+    "Ganju patel, main deta hoon tel"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    4032.4,
+    4059.0,
+    4082.2,
+    4103.5,
+    4129.6
+   ],
+   "comedian": "Chirag Panjwani",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e12_p2",
+   "episode": "s1e12",
+   "video_id": "C0yLJmHydfc",
+   "answer": "The Rock",
+   "accept": [
+    "the rock",
+    "dwayne",
+    "rock johnson"
+   ],
+   "hints": [
+    "Kaala patthar",
+    "I hate diesel",
+    "I am in front of a hard place",
+    "My greatest rival is paper",
+    "My workplace sees a lot of violence"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    4270.2,
+    4304.9,
+    4343.5,
+    4350.0,
+    4359.9
+   ],
+   "comedian": "Shamik Chakrabarti",
+   "comedian_solved_at_hint": 2,
+   "comedian_said_at": 4311.4
+  },
+  {
+   "id": "s1e12_p3",
+   "episode": "s1e12",
+   "video_id": "C0yLJmHydfc",
+   "answer": "Ratan Tata",
+   "accept": [
+    "ratan tata",
+    "ratan naval tata",
+    "ratan n tata"
+   ],
+   "hints": [
+    "Bye bye",
+    "I'm a minority with a majority stake",
+    "Being my employee is every comedian's punchline",
+    "Carrom ramvanu, juice peevanu, majjani life",
+    "Osiris made me a bakra"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    4384.0,
+    4450.2,
+    4471.4,
+    4575.4,
+    4612.0
+   ],
+   "comedian": "Shreeja Chaturvedi",
+   "comedian_solved_at_hint": 4,
+   "comedian_said_at": 4586.0
+  },
+  {
+   "id": "s1e2_p1",
+   "episode": "s1e2",
+   "video_id": "54UQvPPvg0o",
+   "answer": "Dawood Ibrahim",
+   "accept": [
+    "dawood",
+    "dawud",
+    "daud ibrahim"
+   ],
+   "hints": [
+    "I brought corporate structure to a largely unorganized sector",
+    "Bollywood celebs often dance at my son's wedding",
+    "Newcomers I mentored eventually started competing against me",
+    "I've made a huge impact on cricket",
+    "I ran a thriving import-export business"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    2757.62,
+    2772.58,
+    2791.43,
+    2804.96,
+    2834.06
+   ],
+   "comedian": "Karunesh Talwar",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e2_p2",
+   "episode": "s1e2",
+   "video_id": "54UQvPPvg0o",
+   "answer": "Raj Kundra",
+   "accept": [
+    "kundra"
+   ],
+   "hints": [
+    "I am a champion of female employment",
+    "People think I like my money the way I like my coffee - black",
+    "My work is very popular in boys hostels",
+    "I was a very diligent follower of the mask mandate",
+    "My wife once offered UP & Bihar in exchange for a kiss"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    2878.58,
+    2904.62,
+    2919.26,
+    2940.06,
+    2986.22
+   ],
+   "comedian": "Anirban Dasgupta",
+   "comedian_solved_at_hint": 5,
+   "comedian_said_at": 2998.5
+  },
+  {
+   "id": "s1e2_p3",
+   "episode": "s1e2",
+   "video_id": "54UQvPPvg0o",
+   "answer": "Mohammad Ali Jinnah",
+   "accept": [
+    "jinna"
+   ],
+   "hints": [
+    "Everyone calls me a green flag",
+    "I was portrayed by a British actor in my biopic",
+    "I am the reason you enjoyed the Asia cup",
+    "I want Patiala but not its peg",
+    "I always supported minorities"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3033.38,
+    3056.56,
+    3110.06,
+    3125.16,
+    3137.8
+   ],
+   "comedian": "Shamik Chakrabarti",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e3_p1",
+   "episode": "s1e3",
+   "video_id": "hMuyfGbwwZE",
+   "answer": "Amitabh Bachchan",
+   "accept": [
+    "amitabh",
+    "amitab",
+    "अमिताभ"
+   ],
+   "hints": [
+    "Even in my old age I am the primary breadwinner for my family",
+    "I was India's OG health influencer",
+    "Ek taraf hai gharwali ek taraf baharwali"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    2124.9,
+    2141.1,
+    2154.7
+   ],
+   "comedian": "Amit Tandon",
+   "comedian_solved_at_hint": 3,
+   "comedian_said_at": 2169.0
+  },
+  {
+   "id": "s1e3_p2",
+   "episode": "s1e3",
+   "video_id": "hMuyfGbwwZE",
+   "answer": "Donald Trump",
+   "accept": [
+    "trump",
+    "ट्रम्प"
+   ],
+   "hints": [
+    "I really really really love my daughter",
+    "I have been inducted in the WWE Hall of Fame",
+    "I hate all my neighbours",
+    "My foundation never matches my skin tone",
+    "My best friend owns an island"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    2205.8,
+    2216.9,
+    2228.9,
+    2246.3,
+    2279.6
+   ],
+   "comedian": "Gurleen Pannu",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e3_p3",
+   "episode": "s1e3",
+   "video_id": "hMuyfGbwwZE",
+   "answer": "Eminem",
+   "accept": [
+    "eminem",
+    "marshall mathers",
+    "slim shady",
+    "m&m",
+    "m and m"
+   ],
+   "hints": [
+    "I am a minority in my field",
+    "I have a lot of heavy flow days",
+    "I love going into battles",
+    "My best friend is a doctor",
+    "My name sounds like a chocolate"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    2310.0,
+    2329.1,
+    2352.1,
+    2389.4,
+    2429.0
+   ],
+   "comedian": "Raunaq Rajani",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e4_p1",
+   "episode": "s1e4",
+   "video_id": "r0nG0-18pu4",
+   "answer": "Mahendra Singh Dhoni",
+   "accept": [
+    "dhoni"
+   ],
+   "hints": [
+    "I hate when people don’t buy a ticket",
+    "People think every year will be my last",
+    "I dare you to name another celebrity from my hometown",
+    "An overweight yellow man follows me everywhere I go..",
+    "Mujhe samajhne mein saat hint lagenge"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    2560.6,
+    2572.8,
+    2585.5,
+    2597.6,
+    2629.0
+   ],
+   "comedian": "Azeem Banatwalla",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e4_p2",
+   "episode": "s1e4",
+   "video_id": "r0nG0-18pu4",
+   "answer": "Jawaharlal Nehru",
+   "accept": [
+    "jawaharlal",
+    "jawahar lal",
+    "pandit nehru",
+    "pt nehru",
+    "pt. nehru",
+    "chacha nehru"
+   ],
+   "hints": [
+    "I walk English I talk english I even drink English",
+    "White chicks love me",
+    "I love kids but not like Michael Jackson",
+    "My legacy lives on at FabIndia",
+    "Even I can’t believe how bad my future generations are"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    2698.1,
+    2702.0,
+    2731.7,
+    2746.5,
+    2758.3
+   ],
+   "comedian": "Varun Thakur",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e4_p3",
+   "episode": "s1e4",
+   "video_id": "r0nG0-18pu4",
+   "answer": "Anurag Kashyap",
+   "accept": [
+    "anurag kashyap"
+   ],
+   "hints": [
+    "Main kalki chinta nahi karta",
+    "Influencers are ruining my favourite festival",
+    "My social media is one battle after another",
+    "I wish my brother would stfu",
+    "I am NREGA for ugly people"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    2824.4,
+    2843.6,
+    2867.0,
+    2886.7,
+    2967.3
+   ],
+   "comedian": "Kautuk Srivastava",
+   "comedian_solved_at_hint": 4,
+   "comedian_said_at": 2902.1
+  },
+  {
+   "id": "s1e5_p1",
+   "episode": "s1e5",
+   "video_id": "Bvj6lZRLrlc",
+   "answer": "Mahatma Gandhi",
+   "accept": [
+    "mahatma",
+    "mohandas",
+    "gandhiji",
+    "gandhi ji",
+    "mk gandhi",
+    "m k gandhi",
+    "m.k. gandhi",
+    "m. k. gandhi",
+    "bapu"
+   ],
+   "hints": [
+    "I love long walks on the beach",
+    "I have a high thread count",
+    "I am the original salt bae",
+    "I conducted many social experiments",
+    "I was one of the first people to try intermittent fasting"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3356.0,
+    3378.1,
+    3410.4,
+    3452.6,
+    3489.7
+   ],
+   "comedian": "Rahul Subramanian",
+   "comedian_solved_at_hint": 5,
+   "comedian_said_at": 3494.2
+  },
+  {
+   "id": "s1e5_p2",
+   "episode": "s1e5",
+   "video_id": "Bvj6lZRLrlc",
+   "answer": "Virat Kohli",
+   "accept": [
+    "virat",
+    "kohli"
+   ],
+   "hints": [
+    "Bhenchod",
+    "I spend a lot of time around God",
+    "I get basic spelling WROGN",
+    "I have disappointed a city for close to 2 decades",
+    "I am a fitness freak but I love vada pav"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3554.1,
+    3603.4,
+    3628.3,
+    3660.3,
+    3700.4
+   ],
+   "comedian": "Gaurav Kapoor",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e5_p3",
+   "episode": "s1e5",
+   "video_id": "Bvj6lZRLrlc",
+   "answer": "Sanjay Dutt",
+   "accept": [
+    "sanjay dutt",
+    "sanjay datt",
+    "sanju baba",
+    "sanjubaba"
+   ],
+   "hints": [
+    "I am not afraid of needles",
+    "I hate white shirts with black stripes",
+    "Dubai mein meri bahut Maanyata hai",
+    "I think hugging can cure diseases",
+    "In a way I am Baba Black Sheep"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3809.5,
+    3823.9,
+    3849.9,
+    3877.6,
+    3882.4
+   ],
+   "comedian": "Sumaira Sheikh",
+   "comedian_solved_at_hint": 3,
+   "comedian_said_at": 3853.2
+  },
+  {
+   "id": "s1e6_p1",
+   "episode": "s1e6",
+   "video_id": "iDvobmrf-Ng",
+   "answer": "Ajay Devgn",
+   "accept": [
+    "ajay devgn",
+    "ajay devgan",
+    "ajay devgun",
+    "devgn",
+    "devgan"
+   ],
+   "hints": [
+    "I hate vowels",
+    "I might lose my own lookalike contest"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3860.3,
+    3889.0
+   ],
+   "comedian": "Kaustubh Agarwal",
+   "comedian_solved_at_hint": 2,
+   "comedian_said_at": 3892.1
+  },
+  {
+   "id": "s1e6_p2",
+   "episode": "s1e6",
+   "video_id": "iDvobmrf-Ng",
+   "answer": "Ranveer Allahbadia",
+   "accept": [
+    "allahbadia",
+    "allahabadia",
+    "allahbadiya",
+    "allahabadiya",
+    "beerbiceps",
+    "beer biceps"
+   ],
+   "hints": [
+    "Meri shakal dekhke muh se gaali nikalti hai",
+    "Mere rajya pe ab kisi aur ka Raj hai",
+    "The government gives - and the government takes away",
+    "Gaand lagi toh spirituality pe aa gaya",
+    "Comedy comics ke liye chhod deni chahiye"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3937.8,
+    3960.3,
+    3980.0,
+    4033.3,
+    4080.9
+   ],
+   "comedian": "Aashish Solanki",
+   "comedian_solved_at_hint": 4,
+   "comedian_said_at": 4061.4
+  },
+  {
+   "id": "s1e6_p3",
+   "episode": "s1e6",
+   "video_id": "iDvobmrf-Ng",
+   "answer": "Yo Yo Honey Singh",
+   "accept": [
+    "honey singh",
+    "honeysingh",
+    "yo yo honey"
+   ],
+   "hints": [
+    "In another life, I would've been a gynaecologist",
+    "I only enjoy tea if it's followed by a series",
+    "I don't play football but I'm always tripping balls",
+    "There is not a single party I haven't joined",
+    "I'm a famous mafia member"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    4110.1,
+    4155.6,
+    4174.8,
+    4192.5,
+    4253.7
+   ],
+   "comedian": "Rajat Sood",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e7_p1",
+   "episode": "s1e7",
+   "video_id": "x5cWXEsSsD0",
+   "answer": "Kangana Ranaut",
+   "accept": [
+    "kangana",
+    "kangna"
+   ],
+   "hints": [
+    "Delulu is the only solulu",
+    "I hate airport security",
+    "I love thumbs up",
+    "I believe in karma over dharma",
+    "I thought koi mil gaya but I was wrong"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3570.3,
+    3610.6,
+    3642.9,
+    3676.2,
+    3698.8
+   ],
+   "comedian": "Aakash Gupta",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e7_p2",
+   "episode": "s1e7",
+   "video_id": "x5cWXEsSsD0",
+   "answer": "Sachin Tendulkar",
+   "accept": [
+    "tendulkar",
+    "master blaster"
+   ],
+   "hints": [
+    "I am a religious figure",
+    "It's really hard to say my name just once",
+    "People compare me to a don",
+    "I am the one who knocks",
+    "I don't respect other people's boundaries"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3760.7,
+    3775.9,
+    3793.2,
+    3862.8,
+    3884.6
+   ],
+   "comedian": "Anubhav Singh Bassi",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e7_p3",
+   "episode": "s1e7",
+   "video_id": "x5cWXEsSsD0",
+   "answer": "Salman Khan",
+   "accept": [
+    "salman khan",
+    "sallu",
+    "bhaijaan"
+   ],
+   "hints": [
+    "I have stopped trying",
+    "I am very busy on raksha bandhan",
+    "I wish my brothers would do something except divorce",
+    "There is no guardian for my galaxy"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    4082.0,
+    4103.0,
+    4129.1,
+    4179.6
+   ],
+   "comedian": "Shreeja Chaturvedi",
+   "comedian_solved_at_hint": 4,
+   "comedian_said_at": 4227.0
+  },
+  {
+   "id": "s1e8_p1",
+   "episode": "s1e8",
+   "video_id": "2HZBEKqksQE",
+   "answer": "Zohran Mamdani",
+   "accept": [
+    "zohran",
+    "zoran",
+    "mamdani"
+   ],
+   "hints": [
+    "I am the only nepo kid with a spine",
+    "People distrust me because my mother was born abroad",
+    "Even I didn't know I had a huge fanbase in South Bombay",
+    "I have an empire state of mind",
+    "My mother famously covered an off-season wedding"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3175.3,
+    3195.3,
+    3229.0,
+    3288.9,
+    3295.0
+   ],
+   "comedian": "Jose Covaco",
+   "comedian_solved_at_hint": 3,
+   "comedian_said_at": 3240.7
+  },
+  {
+   "id": "s1e8_p2",
+   "episode": "s1e8",
+   "video_id": "2HZBEKqksQE",
+   "answer": "Poonam Pandey",
+   "accept": [
+    "poonam pandey",
+    "poonam panday"
+   ],
+   "hints": [
+    "I passed away in early 2024",
+    "November is a slow month",
+    "People get annoyed when I try to spread awareness",
+    "Like any freelancer, sometimes all I get is exposure",
+    "I don't have a/c, I have only fans"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3341.0,
+    3379.9,
+    3407.6,
+    3472.7,
+    3523.2
+   ],
+   "comedian": "Rahul Subramanian",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e8_p3",
+   "episode": "s1e8",
+   "video_id": "2HZBEKqksQE",
+   "answer": "Deepika Padukone",
+   "accept": [
+    "deepika"
+   ],
+   "hints": [
+    "My father took me to court when I was little",
+    "My favourite bird has migrated from India",
+    "I prefer diesel over petrol",
+    "Mere ex ne meri life ka tamasha bana diya",
+    "People say me and my husband share a wardrobe"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3703.1,
+    3720.4,
+    3750.1,
+    3782.7,
+    3816.1
+   ],
+   "comedian": "Urooj Ashfaq",
+   "comedian_solved_at_hint": 4,
+   "comedian_said_at": 3795.4
+  },
+  {
+   "id": "s1e9_p1",
+   "episode": "s1e9",
+   "video_id": "tIjBtIBjaDA",
+   "answer": "Elon Musk",
+   "accept": [
+    "elon",
+    "musk"
+   ],
+   "hints": [
+    "I am in love with my X",
+    "I am one of the few people to get fired from a government job",
+    "When people ask itna paisa leke kya uppar jayega, I say yes",
+    "I have lived long enough to become the villain",
+    "I am the 2nd worst thing to come out of South Africa after apartheid"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3467.1,
+    3499.8,
+    3542.5,
+    3726.2,
+    3810.6
+   ],
+   "comedian": "Anirban Dasgupta",
+   "comedian_solved_at_hint": null,
+   "comedian_said_at": null
+  },
+  {
+   "id": "s1e9_p2",
+   "episode": "s1e9",
+   "video_id": "tIjBtIBjaDA",
+   "answer": "Christopher Nolan",
+   "accept": [
+    "nolan"
+   ],
+   "hints": [
+    "Dil mein aata hoon, samajh mein nahi",
+    "Sapne mein milti hai, O kudi meri sapne me milti hai",
+    "I don't watch cricket but I like bats",
+    "I like big budgets and I cannot lie",
+    "Even my bomb is a hit"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    3981.0,
+    4021.8,
+    4045.6,
+    4312.3,
+    4315.2
+   ],
+   "comedian": "Biswa Kalyan Rath",
+   "comedian_solved_at_hint": 3,
+   "comedian_said_at": 4246.0
+  },
+  {
+   "id": "s1e9_p3",
+   "episode": "s1e9",
+   "video_id": "tIjBtIBjaDA",
+   "answer": "Neil Armstrong",
+   "accept": [
+    "neil armstrong",
+    "neil alden armstrong",
+    "niel armstrong"
+   ],
+   "hints": [
+    "I wear a very expensive suit at work",
+    "I believe in taking small steps",
+    "There used to be a lot of buzz around me",
+    "My karva chauth would be iconic",
+    "Michael Jackson stole my hook step"
+   ],
+   "rule": null,
+   "hint_read_end": [
+    4362.0,
+    4372.0,
+    4395.8,
+    4512.6,
+    4538.0
+   ],
+   "comedian": "Prashasti Singh",
+   "comedian_solved_at_hint": 5,
+   "comedian_said_at": 4569.3
+  },
+  {
+   "id": "s2e1_p1",
+   "episode": "s2e1",
+   "video_id": "R2MK5oikbVI",
+   "answer": "Humpty Dumpty",
+   "accept": [
+    "humpty"
+   ],
+   "hints": [
+    "I am a fence sitter",
+    "I'm not a fashion designer but I have a great fall collection",
+    "I have six grams of protein",
+    "My surname rhymes with my first name",
+    "Varun Dhawan stole my name for a movie"
+   ],
+   "rule": "This season the host announced a twist: the answer is a fictional character, from movies, films, nursery rhymes or anywhere else, not a real person.",
+   "hint_read_end": [
+    5320.9,
+    5442.3,
+    5446.6,
+    5452.6,
+    5469.8
+   ],
+   "comedian": "Anirban Dasgupta",
+   "comedian_solved_at_hint": 1,
+   "comedian_said_at": 5390.4
+  },
+  {
+   "id": "s2e1_p2",
+   "episode": "s2e1",
+   "video_id": "R2MK5oikbVI",
+   "answer": "Batman",
+   "accept": [
+    "batman",
+    "bruce wayne"
+   ],
+   "hints": [
+    "Meri night duty hai",
+    "Naukar hai, baap mat ban",
+    "Mujhe jungli billiyan bahut pasand hain",
+    "Main tumhe signal pe milunga",
+    "Mere shahar ka naam Adani se milta hai"
+   ],
+   "rule": "This season the host announced a twist: the answer is a fictional character, from movies, films, nursery rhymes or anywhere else, not a real person.",
+   "hint_read_end": [
+    5497.7,
+    5563.9,
+    5567.8,
+    5571.0,
+    5581.3
+   ],
+   "comedian": "Rahul Subramanian",
+   "comedian_solved_at_hint": 1,
+   "comedian_said_at": 5508.9
+  },
+  {
+   "id": "s2e1_p3",
+   "episode": "s2e1",
+   "video_id": "R2MK5oikbVI",
+   "answer": "Munna Bhai",
+   "accept": [
+    "munna",
+    "murli prasad"
+   ],
+   "hints": [
+    "I see dead people",
+    "I use a racial slur for my girlfriend",
+    "I think hookers can cure depression",
+    "My friend was in a coma, phir maine hug diya",
+    "I'm not an engineer but I can fix a short circuit"
+   ],
+   "rule": "This season the host announced a twist: the answer is a fictional character, from movies, films, nursery rhymes or anywhere else, not a real person.",
+   "hint_read_end": [
+    5615.0,
+    5679.6,
+    5729.9,
+    5741.0,
+    5750.8
+   ],
+   "comedian": "Shreeja Chaturvedi",
+   "comedian_solved_at_hint": 2,
+   "comedian_said_at": 5687.3
+  }
+ ]
+}
